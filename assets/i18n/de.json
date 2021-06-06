@@ -2839,57 +2839,57 @@
         },
         {
           "key": "p2",
-          "title": "Catalyst Conversion",
-          "description": "When Sucrose triggers a Swirl effect, characters in the party with the matching element have their Elemental Mastery increased by 50 for 8s.",
+          "title": "Katalysatorenkonversion",
+          "description": "Erhöht die Elementarkunde aller Figuren in der Truppe des jeweiligen Elements (außer sich selbst) 8 s lang um 50 Punkte, wenn Saccharose eine Verwirbelung auslöst.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Mollis Favonius",
-          "description": "When Astable Anemohypostatis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hit an enemy, increases other party member’s Elemental Mastery based on 20% of Sucrose’s Elemental Mastery for 8s.",
+          "title": "Favonius Mollis",
+          "description": "Erhöht die Elementarkunde aller Figuren in der Truppe (außer sich selbst) beim Treffen von Gegnern mit Windseelenschaffung – Experiment 6308 oder Verbotene Windseelenschaffung – Isomorpher Typ 75-II 8 s lang in Höhe von 20 % von Saccharoses Elementarkunde.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Clustered Vacuum Field",
-          "description": "Astable Anemohypostasis Creation - 6308 gains 1 additional charge.",
+          "title": "Gebündeltes Vakuumfeld",
+          "description": "Ermöglicht 1 weitere Anwendung von Windseelenschaffung – Experiment 6308.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Beth - Unbound Form",
-          "description": "The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.",
+          "title": "Beth - Ungezügelt",
+          "description": "Verlängert die Wirkungsdauer von Verbotene Windseelenschaffung – Isomorpher Typ 75-II um 2 s.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Flawless Alchemistress",
-          "description": "Increases the Level of Astable Anemohypostasis Creation - 6308 by 3. Maximum upgrade level is 15.",
+          "title": "Bestnote",
+          "description": "Erhöht die Stufe der Fähigkeit Windseelenschaffung – Experiment 6308 um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Alchemania",
-          "description": "Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s.",
+          "title": "Besessenheit",
+          "description": "Verkürzt die Abklingzeit von Windseelenschaffung – Experiment 6308 alle 7 Standardangriffe oder heftige Schläge von Saccharose zufällig um 1 bis 7 s.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Caution: Standard Flask",
-          "description": "Increase the Level of Forbidden Creation - Isomer 75 / Type II by 3. Maximum upgrade level is 15.",
+          "title": "Gewissenhaftes Handwerk",
+          "description": "Erhöht die Stufe der Fähigkeit Verbotene Windseelenschaffung – Isomorpher Typ 75-II um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Chaotic Entropy",
-          "description": "If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+          "title": "Chaotische Entropie",
+          "description": "Erhöht den jeweiligen Elementar-SCH aller Truppenmitglieder bei einer Elementarumwandlung von Verbotene Windseelenschaffung – Isomorpher Typ 75-II während der Wirkungsdauer der Fähigkeit um 20 %.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -2898,78 +2898,78 @@
     {
       "key": "Tartaglia",
       "name": "Tartaglia",
-      "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+      "description": "Der Letzte unter den Elf der Fatui,der \"Graf\" genannt, mit großen Erfolgen auf dem Schlachtfeld.",
       "skills": [
         {
           "key": "s1",
-          "title": "Cutting Torrent",
+          "title": "Regenschnitt",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 6 consecutive shots with a bow.",
+              "description": "Führt bis zu 6 Pfeilschüsse aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Perform a more precise Aimed Shot with increased DMG. While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal Hydro DMG and apply Riptide status..",
+              "description": "Startet einen gezielten Schuss mit höherem Schaden und höherer Genauigkeit. Konzentriert die Hydro-Kraft an der Pfeilspitze und fügt getroffenen Gegnern bei voll konzentrierter Kraft Hydro-Schaden sowie den Effekt Versiegen zu.",
               "descriptions": []
             },
             {
-              "name": "Riptide",
-              "description": "Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.",
+              "name": "Versiegen",
+              "description": "Fügt betroffenen Gegnern Hydro-Flächenschaden bei allen Arten von Angriffen von Tartaglia zu. Der durch diese Effekte verursachte Schaden gilt als Standardangriffsschaden.",
               "descriptions": [
-                "Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.",
-                "Riptide Burst: Defeating an opponent affected by Riptide created a Hydro burst that inflicts the Riptide status on nearby opponents hit."
+                "Versiegen – Blitz: Verursacht beim Treffen von Versiegen betroffener Gegnern mit voll aufgeladenen gezielten Schüssen fortlaufenden Flächenschaden. 0,7 s Abklingzeit für Versiegen – Blitz",
+                "Versiegen – Schwall: Verursacht beim Angreifen von Versiegen betroffener Gegner einen Wasserschwall und fügt Gegnern in der Nähe den Effekt Versiegen zu."
               ]
             },
             {
               "key": "a4",
-              "description": "Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact. When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, he cannot perform a plunging attack.",
+              "description": "Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden. Im Nahkampfmodus von Dämonengewand – Stürmische Gezeiten ist kein Angriff aus dem Fall möglich.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Foul Legacy: Raging Tide",
-          "description": "Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering a Melee Stance. In this Stance, Tartaglia’s Normal and Charged Attacks change as follows:",
+          "title": "Dämonengewand – Stürmische Gezeiten",
+          "description": "Nutzt seine aus reinem Wasser bestehende Ausrüstung, fügt Gegnern in der Umgebung Hydro-Schaden zu und geht in den Nahkampf über. Wandelt den Schaden von Tartaglias Standardangriffen und heftigen Schlägen in diesem Zustand in Hydro-Schaden, dessen Element anderweitig nicht verändert werden kann, und verändert die Angriffe folgendermaßen:",
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 6 consecutive Hydro strikes.",
+              "description": "Führt bis zu 6 Hydro-Hiebe aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to unleash a cross slash, dealing Hydro DMG.",
+              "description": "Verbraucht Ausdauer, schlägt mit beiden Schwertern schnell nach vorn und verursacht Hydro-Schaden.",
               "descriptions": []
             },
             {
-              "name": "Riptide Slash",
-              "description": "Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s. After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD. If the return to a ranged stance occurs automatically after 30s, the CD is even longer.",
+              "name": "Versiegen – Hieb",
+              "description": "Verursacht beim Treffen von Versiegen betroffener Gegner mit Nahkampfangriffen Versiegen – Hieb und verursacht Hydro-Flächenschaden. Der mit Versiegen – Hieb verursachte Schaden gilt als Elementarfähigkeitsschaden mit 1,5 s Abklingzeit. Beendet den Effekt nach 30 s oder erneutem Anwenden, aktiviert wieder den Fernkampf und startet die Abklingphase. Je länger der Nahkampf aktiv war, desto länger dauert die Abklingphase. Aktiviert eine längere Abklingphase, wenn der Nahkampf 30 s lang aktiv war.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Havor: Obliteration",
-          "description": "Performs different attacks based on what stance Tartaglia is in when casting.",
+          "title": "Spezialangriff – Totale Vernichtung",
+          "description": "Führt je nachdem, ob Fern- oder Nahkampf aktiv ist, verschiedene Angriffe aus.",
           "abilities": [
             {
-              "name": "Ranged Stance: Flash of Havoc",
-              "description": "Swiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status. Returns a portion of its Energy Cost after use.",
+              "name": "Fernkampf: Teufelsschuss",
+              "description": "Schießt schnell einen magischen Pfeil voller Hydro-Kraft nach vorn und verursacht Hydro-Flächenschaden sowie den Effekt Versiegen. Gibt nach dem Anwenden einen Teil Elementarenergie zurück.",
               "descriptions": []
             },
             {
-              "name": "Melee Stance: Light Obliteration",
-              "description": "Performs a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.",
+              "name": "Nahkampf: Tödliches Glitzern",
+              "description": "Führt einen Hieb mit hoher Reichweite aus, der den Gegnern in der Nähe hohen Hydro-Schaden zufügt und Versiegen – Explosion verursacht.",
               "descriptions": []
             },
             {
-              "name": "Riptide Blast",
-              "description": "When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Burst DMG.",
+              "name": "Versiegen – Explosion",
+              "description": "Beendet beim Treffen von Versiegen betroffener Gegner mit Tödliches Glitzern den Effekt des Versiegens und verursacht eine Explosion sowie Hydro-Flächenschaden. Der mit Versiegen – Explosion verursachte Schaden gilt als Spezialfähigkeitsschaden.",
               "descriptions": []
             }
           ]
@@ -2978,63 +2978,63 @@
       "passives": [
         {
           "key": "p1",
-          "title": "Master of Weaponry",
-          "description": "Increases your own party member’s Normal Attack Level by 1.",
+          "title": "Ausgeklügelte Bewaffnung",
+          "description": "Erhöht die Stufe der Standardangriffe eigener Figuren in der Truppe um 1.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Never Ending",
-          "description": "Extends Riptide duration by 8s.",
+          "title": "Ewige Fortsetzung",
+          "description": "Verlängert die Dauer des Effekts Versiegen um 8 s.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Sword of Torrents",
-          "description": "When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.",
+          "title": "Schwert aus Wasser",
+          "description": "Fügt mit kritischen Treffern von Standardangriffen und heftigen Schlägen getroffenen Gegnern im Nahkampf von Dämonengewand – Stürmische Gezeiten den Effekt Versiegen zu.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Foul Legacy: Tide Withholder",
-          "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
+          "title": "Dämonengewand – Wellenbrecher",
+          "description": "Verkürzt die Abklingzeit für die Anwendung von Dämonengewand – Stürmische Gezeiten um 20 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Foul Legacy: Understream",
-          "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+          "title": "Dämonengewand – Unterströmung",
+          "description": "Stellt Tartaglia, wenn von Versiegen betroffene Gegner besiegt werden, 4 Punkte Elementarenergie wieder her.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Abyssal Mayhem: Vortex of Turmoil",
-          "description": "Increases the Level of Foul Legacy: Raging Tide by 3. Maximum upgrade level is 15.",
+          "title": "Katastrophe des Abgrunds – Strudel der Zwietracht",
+          "description": "Erhöht die Stufe der Fähigkeit Dämonengewand – Stürmische Gezeiten um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Abyssal Mayhem: Hydrospout",
-          "description": "If Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash. Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+          "title": "Katastrophe des Abgrunds – Sprudelndes Wasser",
+          "description": "Löst bei Anwesenheit des von Tartaglia verursachten Effekts Verisegen alle 4 s Versiegen – Hieb aus, wenn Tartaglia im Nahkampfmodus von Dämonengewand – Stürmische Gezeiten ist, löst andernfalls Versiegen – Blitz aus. Versiegen – Hieb und Versiegen – Blitz werden, wenn sie durch dieses Sternbild ausgelöst werden, nicht von der zeitlichen Beschränkung der beiden Zustände des Versiegens beeinflusst und wirken sich auch nicht auf die Zeitabstände zum Auslösen aus.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Havoc: Formless Blade",
-          "description": "Increase the Level of Havoc: Obliteration by 3. Maximum upgrade level is 15.",
+          "title": "Spezialangriff – Regenschlächter",
+          "description": "Erhöht die Stufe der Fähigkeit Spezialangriff – Totale Vernichtung um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Havoc: Annihilation",
-          "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.",
+          "title": "Spezialangriff – Komplette Auslöschung",
+          "description": "Überspringt die Abklingzeit von Spezialangriff – Stürmische Gezeiten bei Anwendung von Spezialangriff – Totale Vernichtung im Nahkampf. Dieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3042,56 +3042,56 @@
     },
     {
       "key": "Traveler (Anemo)",
-      "name": "Traveler (Anemo)",
-      "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+      "name": "Reisender (Anemo)",
+      "description": "Ein Reisender aus einer anderen Welt, der nach den Sieben sucht, um sein Geschwisterchen zu finden.",
       "skills": [
         {
           "key": "s1",
-          "title": "Foreign Ironwind",
+          "title": "Eiserner Wind aus der Fremde",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 5 consecutive strikes.",
+              "description": "Führt bis zu 5 Schwerthiebe aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.",
+              "description": "Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Palm Vortex",
-          "description": "Grasping the wind’s might, you form a vortex of vacuum in your palm, causing continuous Anemo DMG to enemies in front of you. The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.",
+          "title": "Windschwert",
+          "description": "Konzentriert die Kraft des Windes auf der Handfläche und erschafft einen Vakuumstrudel, der gegenüberstehenden Gegnern fortlaufend Anemo-Schaden zufügt. Verursacht am Ende eine Explosion, die noch größeren und höheren Anemo-Schaden verursacht.",
           "abilities": [
             {
               "key": "a1",
-              "description": "DMG and AoE will gradually increase",
+              "description": "Schaden und Wirkungsbereich vergrößern sich allmählich",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "If the vortex comes in contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.",
+              "description": "Verleiht dem Vakuumstrudel beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend Schaden. Elementarumwandlung nur einmal während der Wirkungsdauer möglich.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Gust Surge",
-          "description": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous Anemo DMG.",
+          "title": "Ruhe vor dem Sturm",
+          "description": "Leitet den Wind und erschafft einen sich nach vorn bewegenden Tornado, der Objekte und Gegner in seiner Bahn mitreißt und fortlaufend Anemo-Schaden verursacht.",
           "abilities": [
             {
               "key": "a1",
-              "description": "If the tornado comes in contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.",
+              "description": "Verleiht dem Tornado beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend Schaden. Elementarumwandlung nur einmal während der Wirkungsdauer möglich.",
               "descriptions": []
             }
           ]
@@ -3100,57 +3100,57 @@
       "passives": [
         {
           "key": "p2",
-          "title": "Slitting Wind",
-          "description": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.",
+          "title": "Schlitzender Wind",
+          "description": "Führt beim letzten Schlag des Standardangriffs einen Hieb mit einer Windklinge aus und fügt Gegnern in der Bahn Anemo-Schaden in Höhe von 60 % ANG zu.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Second Wind",
-          "description": "Palm Vortex kills renegerate 2% HP for 5s. This effect can only occur once every 5s.",
+          "title": "Erneuter Wind",
+          "description": "Stellt nach dem Besiegen von Gegnern mit Windschwert 5 s lang 2 % LP pro s wieder her. 5 s Abklingzeit.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Raging Vortex",
-          "description": "Palm Vortex pulls in enemies within a 5m radius.",
+          "title": "Wirbelnder Wind",
+          "description": "Zieht Gegner und Objekte innerhalb eines Radius von 5 m bei Anwendung von Windschwert langsam vor die Figur.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Uprising Whirlwind",
-          "description": "Increases Energy Recharge by 16%.",
+          "title": "Aufsteigender Wind",
+          "description": "Erhöht die Aufladerate um 16 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Sweeping Gust",
-          "description": "Increases the Level of Gust Surge by 3. Maximum upgrade level is 15.",
+          "title": "Schneidender Wind",
+          "description": "Erhöht die Stufe der Fähigkeit Ruhe vor dem Sturm um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Cherishing Breezes",
-          "description": "Reduces DMG taken while casting Palm Vortex by 10%.",
+          "title": "Fürsorglicher Wind",
+          "description": "Verringert den während der Dauer von Windschwert erlittenen Schaden um 10 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
           "title": "Vortex Stellaris",
-          "description": "Increase the Level of Palm Vortex by 3. Maximum upgrade level is 15.",
+          "description": "Erhöht die Stufe der Fähigkeit Windschwert um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Intertwined Winds",
-          "description": "Targets who take DMG from Gust Surge have their Anemo RES decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+          "title": "Verworrener Wind",
+          "description": "Verringert den Anemo-WDS von Zielen, denen mit Ruhe vor dem Sturm Schaden zugefügt wird, um 20 %. Verringert bei Elementarumwandlung den entsprechenden Elementar-WDS auch um 20 %.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3158,104 +3158,104 @@
     },
     {
       "key": "Traveler (Geo)",
-      "name": "Traveler (Geo)",
-      "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+      "name": "Reisender (Geo)",
+      "description": "Ein Reisender aus einer anderen Welt, der nach den Sieben sucht, um sein Geschwisterchen zu finden.",
       "skills": [
         {
           "key": "s1",
-          "title": "Foreign Rockblade",
+          "title": "Steinerne Klinge aus der Fremde",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 5 consecutive strikes.",
+              "description": "Führt bis zu 5 Schwerthiebe aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.",
+              "description": "Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Starfell Sword",
-          "description": "You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG. The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.",
+          "title": "Sternschnuppenschwert",
+          "description": "Ein Brocken bricht aus der Erde heraus, explodiert und verursacht Geo-Flächenschaden. Der gefallene Stern gilt als Geo-Objekt, blockiert Angriffe und kann erklommen werden..",
           "abilities": [
             {
               "key": "a1",
-              "description": "The skill’s positioning may be adjusted.",
+              "description": "Wirkungsbereich der Fähigkeit kann angepasst werden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Wake of Earth",
-          "description": "Energizing the Geo elements deep underground, you set off expanding shockwaves. Launches surrounding enemies back and deals AoE Geo DMG. A stone wall is erected at the edges of the shockwave. The stone wall is considered a Geo Construct, and may be used to block attacks.",
+          "title": "Aufgetürmter Steinwall",
+          "description": "Aktiviert die Geo-Kräfte tief in der Erde und verursacht eine Schockwelle. Stößt Gegner in der Umgebung zurück und verursacht Geo-Flächenschaden. Erschafft danach einen Steinwall am Rand der Druckwelle. Der Steinwall gilt als Geo-Objekt und blockiert Angriffe.",
           "abilities": []
         }
       ],
       "passives": [
         {
           "key": "p2",
-          "title": "Shattered Darkrock",
-          "description": "Reduces Starfell Sword’s CD by 2s.",
+          "title": "Zerspringende Felsen",
+          "description": "Verkürzt die Abklingzeit von Sternschnuppenschwert um 2 s.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Frenzied Rockslide",
-          "description": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.",
+          "title": "Rasanter Erdrutsch",
+          "description": "Verursacht beim letzten Schlag des Standardangriffs einen Zusammenbruch und fügt Gegnern im Wirkungsbereich Geo-Schaden in Höhe von 60 % ANG zu.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Invincible Stonewall",
-          "description": "Allies within the radius of Wake of Earth have their CRIT Rate increased by 10% and have increased resistance against interruption.",
+          "title": "Hoher Steinwalll",
+          "description": "Erhöht die KT, wenn eine Figur in der Truppe vom Steinwall von Aufgetürmter Steinwall umringt ist, um 10 % und erhöht den Unterbrechungs-WDS.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Rockcore Meltdown",
-          "description": "When the meteorite created by Starfell Sword is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.",
+          "title": "Instabiler Kern",
+          "description": "Der gefallene Stern von Sternschnuppenschwert explodiert, sobald er zerstört wird, und fügt Gegnern in der Umgebung zusätzlichen Geo-Flächenschaden in Höhe des Schadens von Sternschnuppenschwert zu.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Will of the Rock",
-          "description": "Increases the Level of Wake of Earth by 3. Maximum upgrade level is 15.",
+          "title": "Felsen ringsumher",
+          "description": "Erhöht die Stufe der Fähigkeit Aufgetürmter Steinwall um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Reaction Force",
-          "description": "The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit. A maximum of 25 Energy can be recovered in this manner at any one time.",
+          "title": "Schroffer Felsen",
+          "description": "Stellt für jeden von der Druckwelle von Aufgetürmter Steinwall getroffenen Gegner 5 Punkte Elementarenergie wieder her. Insgesamt können auf diese Weise bis zu 25 Punkte Elementarenergie pro Anwendung wiederhergestellt werden.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Meteorite Impact",
-          "description": "Increase the Level of Starfell Sword by 3. Maximum upgrade level is 15.",
+          "title": "Meteoriteneinschlag",
+          "description": "Erhöht die Stufe der Fähigkeit Sternschnuppenschwert um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Everlasting Boulder",
-          "description": "The barrier created by Wake of Earth lasts 5s longer. The meteorite created by Starfell Sword lasts 10s longer.",
+          "title": "Unvergänglicher Felsbrocken",
+          "description": "Verlängert die Wirkungsdauer des Steinwalls von Aufgetürmter Steinwall um 5 s. Verlängert die Wirkungsdauer des gefallenen Sterns von Sternschnuppenschwert um 10 s.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3264,26 +3264,26 @@
     {
       "key": "Venti",
       "name": "Venti",
-      "description": "One of the many bards of Mondstadt, who freely wanders the city’s streets and alleys.",
+      "description": "Einer der vielen Barden in Mondstadt, der frei und wohlgemut durch die Gassen schlender.",
       "skills": [
         {
           "key": "s1",
-          "title": "Divine Marksmanship",
+          "title": "Göttliche Schießkunst",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 6 consecutive shots with a bow.",
+              "description": "Führt bis zu 6 Pfeilschüsse aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Perform a more precise Aimed Shot with increased DMG. While aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.",
+              "description": "Führt einen gezielten Schuss mit höherem Schaden und höherer Genauigkeit aus. Konzentriert den die Welt schützenden Wind während des Zielens an der Pfeilspitze, die voll aufgeladen Anemo-Schaden verursacht.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+              "description": "Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
               "descriptions": []
             }
           ]
@@ -3291,28 +3291,28 @@
         {
           "key": "s2",
           "title": "Skyward Sonnet",
-          "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!",
+          "description": "Beschwört einen Wind, der den Klängen und Liedern folgt und Dinge, die sonst fest auf dem Boden verankert sind, in die Luft reißt",
           "abilities": [
             {
               "key": "a1",
-              "description": "Summons a Wind Domain at the enemy’s location, dealing AoE Anemo DMG and launching enemies into the air.",
+              "description": "Erschafft dort, wo sich Gegner befinden, einen Sturm, der Anemo-Flächenschaden verursacht und die betroffenen Gegner wegschleudert.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Summons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air. Enemies hit by Skyward Sonnet will fall to the ground slowly.",
+              "description": "Erschafft einen größeren Sturm um Venti, der Anemo-Flächenschaden verursacht und betroffene Gegner wegschleudert. Nach dem Auslösen steigt Venti in die Luft. Vom Sonett vom Himmel weggeschleuderte Gegner fallen langsam zu Boden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Wind’s Grand Ode",
-          "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.",
+          "title": "Ode vom Anemo-Archon",
+          "description": "Schießt Pfeile mit der Macht der Tausend Winde und erschafft einen riesigen Sturm vor Venti, der Gegner mitreißt und fortlaufend Anemo-Schaden verursacht.",
           "abilities": [
             {
               "key": "a1",
-              "description": "If the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.",
+              "description": "Verleiht dem Zentrum des Sturms beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend Schaden. Elementarumwandlung nur einmal während der Wirkungsdauer möglich.",
               "descriptions": []
             }
           ]
@@ -3321,63 +3321,63 @@
       "passives": [
         {
           "key": "p1",
-          "title": "Windrider",
-          "description": "Decreases all party member’s gliding Stamina Consumption by 20%.",
+          "title": "Windreiter",
+          "description": "Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Embrace of Winds",
-          "description": "Holding Skyward Sonnet creates an upcurrent that lasts for 20s.",
+          "title": "Umarmung des Windes",
+          "description": "Erstellt beim Gedrückthalten von Sonett vom Himmel eine nach oben gerichtete Luftströmung, hält 20 s.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Stormeye",
-          "description": "Regenerates 15 Energy for Venti after the effects of Wind’s Grand Ode end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.",
+          "title": "Zentrum des Storms",
+          "description": "Stellt Venti nach Ende des Effekts von Ode vom Anemo-Archon 15 Punkte Elementarenergie wieder her. Stellt allen entsprechenden Figuren in der Truppe bei Elementarumwandlung 15 Punkte Elementarenergie wieder her.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Splitting Gale",
-          "description": "Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow’s DMG.",
+          "title": "Gespaltener Hagel",
+          "description": "Schießt mit einem gezielten Schuss zwei zusätzliche Pfeile ab, die jeweils 33 % des ursprünglichen Schadens verursachen.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Breeze of Reminiscence",
-          "description": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s. Enemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.",
+          "title": "Brise der Sehnsucht",
+          "description": "Sonett vom Himmel verringert den Anemo-WDS sowie den physischen Widerstand von Gegnern 10 s lang um 12 %. Verringert den Anemo-WDS sowie den physischen Widerstand von Sonett vom Himmel weggeschleuderter Gegner vor dem Aufprall auf dem Boden zusätzlich um 12 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Ode to Thousand Winds",
-          "description": "Increases the Level of Wind’s Grand Ode by 3. Maximum upgrade level is 15.",
+          "title": "Ode an die Tausend Winde",
+          "description": "Erhöht die Stufe der Fähigkeit Ode vom Anemo-Archon um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Hurricane of Freedom",
-          "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.",
+          "title": "Gewitter der Freiheit",
+          "description": "Erhöht den Anemo-Schaden, wenn Venti Elementarkristalle oder Elementarteilchen erhält, 10 s lang um 25 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Concierto dal Cielo",
-          "description": "Increase the Level of Skyward Sonnet by 3. Maximum upgrade level is 15.",
+          "title": "Concerto dal Cielo",
+          "description": "Erhöht die Stufe der Fähigkeit Sonett vom Himmel um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Storm of Defiance",
-          "description": "Targets who take DMG from Wind’s Grand Ode have their Anemo RES decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+          "title": "Sturm des Widerstands",
+          "description": "Verringert den Anemo-WDS von Zielen, denen mit Ode vom Anemo-Archon Schaden zugefügt wird, um 20 %. Verringert bei Elementarumwandlung den entsprechenden Elementar-WDS auch um 20 %.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3386,103 +3386,103 @@
     {
       "key": "Xiangling",
       "name": "Xiangling",
-      "description": "A renowned chef from Liyue. She’s extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+      "description": "Eine recht bekannte Köchin aus Liyue, die Gerichte mit Leidenschaft zubereitet. Ihre Techniken sind feurig genug, um ihren Gegnern den Appetit zu verderben.",
       "skills": [
         {
           "key": "s1",
-          "title": "Dough-Fu",
+          "title": "Gebäckgefecht",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 5 consecutive spear strikes.",
+              "description": "Führt bis zu 5 Lanzenstiche aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.",
+              "description": "Verbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Guoba Attack",
-          "description": "Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE Pyro DMG.",
+          "title": "Guoba, erscheine!",
+          "description": "Ruft den Feuer spuckenden Guoba herbei, der Gegner vor ihm während der Wirkungsdauer immer wieder mit Feuer bespuckt und Pyro-Flächenschaden verursacht.",
           "abilities": []
         },
         {
           "key": "s3",
-          "title": "Pyronado",
-          "description": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her. The Pyronado will move with your character for so long as the ability persists, dealing Pyro DMG to all enemies in its path.",
+          "title": "Feuerrad",
+          "description": "Erschafft aufgrund ihrer Fähigkeit, Feuer zu kontrollieren, und ihrer Fertigkeit im Umgang mit dem Speer ein Feuerrad, das mit hoher Geschwindigkeit um sie kreist. Das Feuerrad bewegt sich während der Wirkungsdauer mit Xiangling und fügt allen Gegnern in seiner Bahn Pyro-Schaden zu.",
           "abilities": []
         }
       ],
       "passives": [
         {
           "key": "p1",
-          "title": "Chef de Cuisine",
-          "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
+          "title": "Chefköchin des Restaurants Wanmin",
+          "description": "Stellt bei der perfekten Zubereitung eines Gerichts mit offensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Crossfire",
-          "description": "Increases the flame range of Guoba by 20%.",
+          "title": "Kreuzfeuer",
+          "description": "Erhöht die Reichweite des Feuers von Guoba um 20 %.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Beware, It’s Super Hot!",
-          "description": "When Guoba Attack’s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
+          "title": "Scharfes Teil!",
+          "description": "Guoba hinterlässt nach dem Ende des Effekts von Guoba, erscheine! eine Peperoni, die den ANG beim Einsammeln 10 s lang um 10 % erhöht.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Crispy Outside, Tender Inside",
-          "description": "Enemies hit by Guoba’s attacks have their Pyro RES reduced by 15% for 6s.",
+          "title": "Außen knusprig, innen zart",
+          "description": "Verringert den Pyro-WDS der von Guoba getroffenen Gegner 6 s lang um 15 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Oil Meets Fire",
-          "description": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling’s ATK as AoE Pyro DMG.",
+          "title": "Öl auf Feuer",
+          "description": "Fügt Gegnern mit dem letzten Schlag des Standardangriffs 2 s lang den Effekt „Implosion“ zu. Die Implosion tritt am Ende der Wirkungsdauer in Kraft und verursacht Pyro-Flächenschaden in Höhe von 75 % ANG.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Deepfry",
-          "description": "Increases the Level of Pyronado by 3. Maximum upgrade level is 15.",
+          "title": "Scharf angebraten",
+          "description": "Erhöht die Stufe der Fähigkeit Feuerrad um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Slowbake",
-          "description": "Pyronado’s duration is increased by 40%.",
+          "title": "Langsam gegart",
+          "description": "Verlängert die Dauer von Feuerrad um 40 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Guoba Mad",
-          "description": "Increase the Level of Guoba Attack by 3. Maximum upgrade level is 15.",
+          "title": "Guoba sauer",
+          "description": "Erhöht die Stufe der Fähigkeit Guoba, erscheine! um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Condensed Pyronado",
-          "description": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus.",
+          "title": "Feuertornado",
+          "description": "Erhöht den Pyro-Schaden aller Truppenmitglieder während der Wirkungsdauer von Feuerrad um 15 %.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3491,47 +3491,47 @@
     {
       "key": "Xiao",
       "name": "Xiao",
-      "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" or \"Vigilant Yaksha.\"",
+      "description": "Ein Yaksha, ein Adept, der Liyue beschützt. Er wird als großer \"Dämonenbändiger\" und \"Schützender Yaksha\" bezeichnet.",
       "skills": [
         {
           "key": "s1",
-          "title": "Whirlwind Thrust",
+          "title": "Aufgewirbelter Staub",
           "abilities": [
             {
               "key": "a1",
-              "description": "Perform up to 6 rapid strikes.",
+              "description": "Führt bis zu 6 Lanzenstiche aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to perform an upward thrust.",
+              "description": "Verbraucht eine gewisse Menge Ausdauer und führt einen Angriff aus dem Sprung aus.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.\nXiao does not take DMG from performing Plunging Attacks.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.\nXiao erleidet bei Angriffen aus dem Fall keinen Schaden durch den Fall.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Lemniscatic Wind Cycling",
-          "description": "Xiao lunges forward, dealing Anemo DMG to opponents in his path.\nCan be used in mid-air.\nStarts with 2 charges.",
+          "title": "Doppeltes Windrad",
+          "description": "Sticht mit hoher Geschwindigkeit nach vorn und fügt den Gegnern in der Bahn Anemo-Schaden zu.\nKann in der Luft angewendet werden.\nKann anfänglich 2-mal angewendet werden.",
           "abilities": []
         },
         {
           "key": "s3",
-          "title": "Bane of All Evil",
-          "description": "Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.",
+          "title": "Geistervertreibung",
+          "description": "Setzt die Yaksha-Maske auf, die Götter und Monster schon vor Jahrtausenden gleichermaßen in Angst und Schrecken versetzt hat.",
           "abilities": [
             {
-              "description": "Yaksha's Mask",
+              "description": "Yaksha-Maske",
               "descriptions": [
-                "Greatly increases Xiao's jumping ability.",
-                "Increases his attack AoE and attack DMG.",
-                "Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. In this state, Xiao will continuously lose HP.",
-                "The effects of this skill end when Xiao leaves the field."
+                "Erhöht Xiaos Sprungkraft enorm.",
+                "Vergrößert den Angriffsradius und erhöht den verursachten Schaden.",
+                "Wandelt den verursachten Schaden in Anemo-Schaden um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden. Xiao verbraucht in diesem Zustand fortlaufend LP.",
+                "Effekt endet, wenn Xiao ausgewechselt wird."
               ]
             }
           ]
@@ -3540,63 +3540,63 @@
       "passives": [
         {
           "key": "p1",
-          "title": "Transcension: Gravity Defier",
-          "description": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+          "title": "Transzendenz – Schwerelosigkeit",
+          "description": "Verringert die beim Klettern verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Conqueror of Evil: Tamer of Demons",
-          "description": "While under the effects of Bane of All Evil, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.\nThe maximum DMG Bonus is 25%.",
+          "title": "Eroberung – Dämonenbändiger",
+          "description": "Erhöht Xiaos gesamten Schaden im Zustand Geistervertreibung um 5 % und danach während der Dauer der Fähigkeit alle 3 s um zusätzliche 5 %.\nErhöht den Schaden dabei um bis zu 25 %.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Dissolution Eon: Heaven Fall",
-          "description": "Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%.\n This effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.",
+          "title": "Untergang – Zermalmtes Land",
+          "description": "Erhöht den mit Doppeltes Windrad verursachten Schaden bei erneuter Anwendung von Doppeltes Windrad innerhalb von 7 s um 15 %.\nHält 7 s, 3-fach stapelbar, aktualisiert die Dauer beim Stapeln.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Dissolution Eon: Destroyer of Worlds",
-          "description": "Increases Lemniscatic Wind Cycling’s charges by 1.",
+          "title": "Untergang – Zerstörung der Welten",
+          "description": "Ermöglicht 1 weitere Anwendung von Doppeltes Windrad.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Annihilation Eon: Blossom of Kaleidos",
-          "description": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.",
+          "title": "Vernichtung – Ausweitung der Leere",
+          "description": "Erhöht Xiaos Aufladerate, wenn er inaktiv in der Truppe ist, um 25 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Conqueror of Evil: Wrath Deity",
-          "description": "Increases the Level of Lemniscatic Wind Cycling by 3. Maximum upgrade level is 15.",
+          "title": "Eroberung – Ausdruck des Zorns",
+          "description": "Erhöht die Stufe der Fähigkeit Doppeltes Windrad um 3.Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Transcension: Extinction of Suffering",
-          "description": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.",
+          "title": "Transzendenz – Auslöschung des Leids",
+          "description": "Erhöht Xiaos VTD bei weniger als 50 % LP um 100 %.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Evolution Eon: Origin of Ignorance",
-          "description": "Increase the Level of Bane of All Evil by 3. Maximum upgrade level is 15.",
+          "title": "Evolution – Ausbreitung der Unwissenheit",
+          "description": "Erhöht die Stufe der Fähigkeit Geistervertreibung um 3.Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Conqueror of Evil: Guardian Yaksha",
-          "description": "While under the effects of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.",
+          "title": "Eroberung - Schutz des Yaksha",
+          "description": "Ermöglicht beim Treffen von mindestens 2 Gegnern mit einem Angriff aus dem Fall unter Anwendung von Geistervertreibung sofort 1 Anwendung von Doppeltes Windrad, das innerhalb der folgenden s trotz Abklingzeit angewendet werden kann.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3605,56 +3605,56 @@
     {
       "key": "Xingqiu",
       "name": "Xingqiu",
-      "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+      "description": "Ein junger Mann, der häufig in der Nähe von Bücherstände gesehen werden kann. In der Hand trägt er ein Langschwert, in seiner Brust ein Herz für die Schwachen.",
       "skills": [
         {
           "key": "s1",
-          "title": "Guhua Style",
+          "title": "Guhua-Stil",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 5 consecutive spear strikes.",
+              "description": "Führt bis zu 5 Schwerthiebe aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.",
+              "description": "Verbraucht eine gewisse Menge an Ausdauer und schwingt das Schwert zweimal schnell nach vorn.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-aur to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Guhua Sword - Fatal Rainscreen",
-          "description": "Xingqiu performs twin strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit the character. 20% of Xingqiu’s Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords. The maximum amount of additional DMG Reduction that can be gained this way is 24%. The initial maximum number of Rain Swords is 3. Using this ability applies the Wet status onto the character.",
+          "title": "Guhua-Schwert - Wolkenbruch",
+          "description": "Greift zweimal mit dem Schwert an und fügt gegenüberstehenden Gegnern Hydro-Schaden zu. Erstellt die Höchstzahl an Regenschwertern, die die aktuelle eigene Figur umkreisen. 20% von Xingqius Hydro-SCH-Bonus werden zusätzlich zu Schadensminderung der Regenschwerter umgewandelt. Bis zu 24% zusätzliche Schadensminderung auf diese Weise möglich. Anfänglich bis zu 3 Regenschwerter möglich. Verleiht der Figur bei Anwendung den Zustand Nass",
           "abilities": [
             {
               "name": "",
-              "description": "The Rain Swords have the following properties:",
+              "description": "Merkmale:",
               "descriptions": [
-                "When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.",
-                "Increases the character’s resistance to interruption."
+                "Wird bei Erleiden von Schaden zerstört und verringert den erlittenen Schaden..",
+                "Erhöht den Unterbrechungs-WDS der Figur."
               ]
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Guhua Sword - Raincutter",
-          "description": "Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.",
+          "title": "Guhua-Schwert - Regen und Bogen",
+          "description": "Wendet “Regenbogentechnik” an, um mit Illusionsschwertern zu kämpfen und erstellt die Höchstzahl an Regenschwertern.",
           "abilities": [
             {
-              "name": "Rainbow Bladework",
-              "description": "These effects carry over to other characters.",
+              "name": "Regenbogentechnik",
+              "description": "Dieser Effekt bleibt beim Wechsel der Figur bestehen",
               "descriptions": [
-                "Normal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.",
-                "Rain Swords will remain at the maximum number throughout the ability’s duration."
+                "Standardangriffe der aktuellen eigenen Figur lösen aufeinanderfolgende Schwertregenangriffe aus,die Hydro-Schaden verursachen.",
+                "Die Anzahl der Regenschwerter bleibt unverändert auf der höchsten Anzahl."
               ]
             }
           ]
@@ -3663,63 +3663,63 @@
       "passives": [
         {
           "key": "p1",
-          "title": "Flash of Genius",
-          "description": "When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.",
+          "title": "Gedankenblitz",
+          "description": "Gibt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 25% einen Teil der Materialien zurück.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Hydropathic",
-          "description": "When a Rain Sword is shattered or when its duration expires, it regenerates the current character’s HP based on 6% of Xingqiu’s Max HP.",
+          "title": "Hydropathie",
+          "description": "Stellt der aktuellen Figur bei Zerstörung eines Regenschwerts durch einen Angriff oder nach Ablauf der Wirkungsdauer LP in Höhe von 6% der max. LP von Xingqiu wieder her.",
           "descriptions": []
         },
         {
           "key": "p3",
-          "title": "Blades Amidst Raindrops",
-          "description": "Xingqiu gains a 20% Hydro DMG Bonus.",
+          "title": "Realistischer Schreibstil",
+          "description": "Erhöht Xingqius Hydro-Schaden um 20%.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "The Scent Remained",
-          "description": "Increases the maximum number of Rain Swords by 1.",
+          "title": "Nachgeschmack",
+          "description": "Erhöht die Höchstmenge an Regenschwertern um 1.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Rainbow Upon the Azure Sky",
-          "description": "Extends the duration of Guhua Sword - Raincutter by 3s. Decreases the Hydro RES of enemies hit by sword rain attacks by 15% for 4s.",
+          "title": "Klarer Himmel",
+          "description": "Verlängert die Dauer von Guhua-Schwert - Regen und Bogen um 3 s. Verringert außerdem den Hydro-WDS von mit Schwertregen angegriffenen gegner 4 s lang um 15%.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Weaver of Verses",
-          "description": "Increases the Level of Guhua Sword - Raincutter by 3. Maximum upgrade level is 15.",
+          "title": "Reimemacher",
+          "description": "Erhöht die Stufe der Fähigkeit Guhua-Schwert - Regen und Bogen um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Evilsoother",
-          "description": "Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.",
+          "title": "Vernichter des Bösen",
+          "description": "Erhöht des mit Guhua-Schwert - Wolkenbruch verursachten Schaden während der Wirkungsdauer von Guhua-Schwert - Regen nd Bogen um 50%.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Embrace of Rain",
-          "description": "Increase the Level of Guhua Sword - Fatal Rainscreen by 3. Maximum upgrade level is 15.",
+          "title": "Tanz im Regen",
+          "description": "Erhöht die Stufe der Fähigkeit Guhua-Schwert -  Wolkenbruch um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Hence, Call Them My Own Verses",
-          "description": "Activating 2 of Guhua Sword - Raincutter’s sword rain attacks greatly increases the DMG of the third. Xingqiu regenerates 3 Energy when sword rain attacks hit enemies.",
+          "title": "Gesammelte Werke",
+          "description": "Verstärkt jeden dritten Schwertangriff von Guhua-Schwert - Regen und Bogen enorm und stellt Xingqiu bei einem Treffer damit 3 Punkte Elementarenergie wieder her.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3728,124 +3728,124 @@
     {
       "key": "Xinyan",
       "name": "Xinyan",
-      "description": "Liyue’s sole rock ’n’ roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+      "description": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
       "skills": [
         {
           "key": "s1",
-          "title": "Dance on Fire",
+          "title": "Tanz der Flammen",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 4 consecutive strikes.",
+              "description": "Führt bis zu 4 Schwünge mit dem Schwert aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Drains Stamina over time to perform continuous spinning attacks against all nearby enemies. At the end of the sequence, perform a more powerful slash.",
+              "description": "Verbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an. Schwingt das Schwert am Ende mit besonders großer Wucht.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s2",
-          "title": "Sweeping Fervor",
-          "description": "Xinyan brandishes her instrument, dealing Pyro DMG on nearby enemies, forming a shield made out of her audience’s passion.",
+          "title": "Schlag in die Saiten",
+          "description": "Xinyan streicht ihr Instrument, fügt Gegnern in der Umgebung Pyro-Schaden zu und erschafft aus der Leidenschaft ihrer Zuschauer einen Schild.",
           "abilities": [
             {
               "name": "",
-              "description": "The shield’s DMG Absorption scales based on Xinyan’s DEF and on the number of enemies hit:",
+              "description": "Die Schildstärke hängt von Xinyans VTD und der Anzahl getroffener Gegner ab:",
               "descriptions": [
-                "Hitting 0-1 enemies grants Shield Level 1: Ad Lib.",
-                "Hitting 2 enemies grants Shield Level 2: Lead-In.",
-                "Hitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby enemies."
+                "Kein bis ein getroffener Gegner: Schild Stufe 1 - Einstimmen.",
+                "Zwei getroffene Gegner: Schild Stufe 2 - Aufdrehen.",
+                "Drei oder mehr getroffene Gegner: Schild Stufe 3 - Abfeiern. Hält Schaden ab und fügt Gegnern in der Umgebung stoßweise Pyro-Schaden zu."
               ]
             },
             {
               "name": "",
-              "description": "The shield has the following special properties:",
+              "description": "Merkmale des Schildes:",
               "descriptions": [
-                "When unleashed, it infuses Xinyan with Pyro.",
-                "It has 250% DMG Absorption effectiveness against Pyro DMG."
+                "Verleiht beim Auslösen das Pyro-Attribut.",
+                "Hält bei Pyro-Schaden 250% ab."
               ]
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Riff Revolution",
-          "description": "Strumming rapidly, Xinyan launches nearby enemies and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby enemies.",
+          "title": "Refrain der Rebellion",
+          "description": "Spielt harte Töne und erschafft Schallwellen, die Gegner zurückstoßen und Gegner in der Umgebung physischen Schaden zufügen, um Euphorie in der Menge auszulösen. Bricht in Flammen aus, weil die Darbietung einfach zu heiß ist und fügt Gegnern in der Umgebung fortlaufend Pyro-Schaden zu.",
           "abilities": []
         }
       ],
       "passives": [
         {
           "key": "p1",
-          "title": "A Rad Recipe",
-          "description": "When a Perfect Cooking is achieved on an DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.",
+          "title": "Rezept für Rock ´n´ Roll",
+          "description": "Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12% den 2-fachen Ertrag her.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "\"The Show Goes On, Even Without an Audience...\"",
-          "description": "Decreases the number of enemies Sweeping Fervor must hit to trigger each level of shielding.",
+          "title": "\"Es geht auch ohne Publikum...\"",
+          "description": "Verringert die für den Schild von Schlag in die Saiten benötigte Trefferzahl:.",
           "descriptions": [
-            "Shield Level 2: Lead-In requirement reduced to 1 enemy hit.",
-            "Shield Level 3: Rave requirement reduced to 2 enemies hit or more."
+            "Schild Stufe 2: Aufdrehen: Ein getroffener Gegner.",
+            "Schild Stufe 3: Abfeiern: Zwei oder mehr getroffene Gegner."
           ]
         },
         {
           "key": "p3",
-          "title": "\"...Now That’s Rock ’N’ Roll!\"",
-          "description": "Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.",
+          "title": "\"...Das nenn ich Rock ´n´ Roll!\"",
+          "description": "Erhöht den von Figuren im Schutz eines Schilds von Schlag in die Saiten verursachten physischen Schaden um 15%.",
           "descriptions": []
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Fatal Acceleration",
-          "description": "Upon scoring a CRIT hit, increases ATK SPD of Xinyan’s Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.",
+          "title": "Tödliche Beschleunigung",
+          "description": "Erhöht die Angriffs-GSW von Standardangriffen und heftigen Schlägen nach kritischen Treffern von Xinyan 5 s lang um 12%. 5 s Abklingzeit.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Impromptu Opening",
-          "description": "Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
+          "title": "Explosive Stimmung",
+          "description": "Erhöht die KT von mit Refrain der Rebellion verursachtem physischen Schaden um 100% und erstellt beim Auslösen Schild Stufe 3 - Abfeiern.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Double Stop",
-          "description": "Increases the Level of Sweeping Fervor by 3. Maximum upgrade level is 15.",
+          "title": "Doppelgriff",
+          "description": "Erhöht die Stufe der Fähigkeit Schlag in die Saiten um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Wildfire Rhythm",
-          "description": "Sweeping Fervor’s swing DMG decrease opponents Physical RES by 15% for 12s.",
+          "title": "Ansteckender Rhythmus",
+          "description": "Der Schwungschaden von Schlag in die Saiten verringert den physischen WDS von Gegnern 12 s lang um 15%.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Screamin’ for an Encore",
-          "description": "Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15.",
+          "title": "Euphorisches Prublikum",
+          "description": "Erhöht die Stufe der Fähigkeit Refrain der Rebellion um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Rockin’ in a Flaming World",
-          "description": "Decrease the stamina consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan Charged Attack gain an ATK bonus equal to 50% of her DEF.",
+          "title": "Tanz in der Hölle",
+          "description": "Verringert den Ausdauerverbrauch von Xinyan bei heftigen Schlägen um 30% und erhöht bei heftigen Schlägen den ANG um 50% VTD.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -3966,26 +3966,26 @@
     {
       "key": "Zhongli",
       "name": "Zhongli",
-      "description": "A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+      "description": "Ein geheimnisvoller Gast beim Bestattungsunternehmen Wangsheng, der eine unglaubliche Menge Wissen angehäuft hat.",
       "skills": [
         {
           "key": "s1",
-          "title": "Rain of Stone",
+          "title": "Steinhagel",
           "description": null,
           "abilities": [
             {
               "key": "a1",
-              "description": "Performs up to 6 consecutive spear strikes.",
+              "description": "Führt bis zu 6 Lanzenstiche aus.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Consumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.",
+              "description": "Verbraucht eine gewisse Menge Ausdauer, läuft geschwind nach vorn uns lässt steinerne Lanzen von Anfang bis Ende auf die Bahn der Bewegung fallen.",
               "descriptions": []
             },
             {
               "key": "a3",
-              "description": "Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+              "description": "Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
               "descriptions": []
             }
           ]
@@ -3993,43 +3993,43 @@
         {
           "key": "s2",
           "title": "Dominus Lapidis",
-          "description": "Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.",
+          "description": "In den Bergen, auf und unter der Erde sowie in den Steinen, die überall herumliegen, steckt die Geo-Kraft. Nur äußerst wenige sind dazu in der Lage, diese Kraft aktiv zu nutzen.",
           "abilities": [
             {
               "key": "a1",
-              "description": "Commands the power of earth to create a Stone Stele.",
+              "description": "Konzentriert die überall auf der Erde vorhandene Geo-Kraft zu einem Hügelkamm.",
               "descriptions": []
             },
             {
               "key": "a2",
-              "description": "Causes nearby Geo energy to explode, causing the following effects:",
+              "description": "Lässt Geo-Objekte in der Nähe explodieren und verursacht folgende Effekte:",
               "descriptions": [
-                "If their maximum number hasn't been reached, creates a Stone Stele.",
-                "Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.",
-                "Deals AoE Geo DMG.",
-                "If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG."
+                "Standartmäßig kann zu einem Zeitpunkt nur ein von Zhongli selbst erstellter Hügelkamm existieren.",
+                "Erstellt einen Jadeblock, der Schaden basierend auf Zhonglis max. LP und bei Geo-Schaden 250% abhält..",
+                "Verursacht Geo-Flächenschaden.",
+                "Verbraucht bei Anwesenheit von Zielen mit dem Geo-Attribut die Geo-Kraft von bis zu zwei dieser Ziele. Dieser Effekt verursacht keinen Schaden."
               ]
             },
             {
-              "name": "Stone Stele",
-              "description": "When created, deals AoE Geo DMG.\nAdditionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo DMG to nearby opponents.\n1The Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.\nOnly one Stele created by Zhongli himself may initially exist at any one time",
+              "name": "Hügelkamm",
+              "description": "Verursacht beim Entstehen Geo-Flächenschaden.\nAdditionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo DMG to nearby opponents.\n1The Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.\nOnly one Stele created by Zhongli himself may initially exist at any one time",
               "descriptions": []
             },
             {
-              "name": "Jade Shield",
-              "description": "Possesses 150% DMG Absorption against all Elemental and Physical DMG.\nCharacters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked.",
+              "name": "Jadeblock-Schild",
+              "description": "Hält bei elementaren sowie physischen Schaden 150% ab.\nVerringert den WDS gegen alle Elemente sowie physischen WDS von Gegnern in der Nähe von Jadeblöcken geschützter Figuren mit geringer Reichweite um 20%, nicht stapelbar.",
               "descriptions": []
             }
           ]
         },
         {
           "key": "s3",
-          "title": "Planet Befall",
-          "description": "Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the Petrification status to them.",
+          "title": "Einstürzender Himmel",
+          "description": "Ein riesiger Meteorit fällt aus dem Himmel und fügt den Gegnern im Wirkungsbereich des EInschlags enormen Geo-Schaden sowie Versteinert zu.",
           "abilities": [
             {
-              "name": "Petrification",
-              "description": "Opponents affected by the Petrification status cannot move.",
+              "name": "Versteinert",
+              "description": "Gegner im Zustand Versteinert können sich nicht bewegen.",
               "descriptions": []
             }
           ]
@@ -4038,70 +4038,70 @@
       "passives": [
         {
           "key": "p1",
-          "title": "Arcanum of Crystal",
-          "description": "Refunds 15% of the ores used when crafting Polearm-type weapons.",
+          "title": "Verhängnis der Kristalle",
+          "description": "Gibt beim Schmieden von Stangenwaffen 15% des verbrauchten Erzes zurück.",
           "descriptions": []
         },
         {
           "key": "p2",
-          "title": "Resonant Waves",
-          "description": "When the Jade Shield takes DMG, it will Fortify:",
+          "title": "Wellenartige Ausbreitung",
+          "description": "Löst den Effekt beständige Wand aus, wenn ein Jadeblock Schaden erleidet:",
           "descriptions": [
-            "Fortified characters have 5% increased Shield Strength.",
-            "Can stack up to 5 times, and lasts until the Jade Shield disappears."
+            "Erhöht die Schildeffizienz der Figuren im Schutz eines Jadeblocks um 5%.",
+            "5-Fach stapelbar, hält bis zum Verschwinden des Jadeblocks."
           ]
         },
         {
           "key": "p3",
-          "title": "Dominance of Earth",
-          "description": "Zhongli deals bonus DMG based on his Max HP:",
+          "title": "Hungrige Erde",
+          "description": "Erhöht den mit den folgenden Angriffen von Zhongli verursachten Schaden basierend auf seinen Max. LP:",
           "descriptions": [
-            "Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.",
-            "Dominus Lapidis' Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.",
-            "Planet Befall's DMG is increased by 33% of Max HP."
+            "Erhöht den Schaden von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall um 1,39% der max. LP.",
+            "Erhöht den Schaden des Hügelkamms von Dominus Lapidis, den des Einklangs beim Gedrückthalten um 1,9% der max. LP.",
+            "Erhöht den Schaden von Einstürzender Himmel um 33% der max. LP."
           ]
         }
       ],
       "constellations": [
         {
           "key": "c1",
-          "title": "Rock, the Backbone of Earth",
-          "description": "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously by 2.",
+          "title": "Skelett der Erde",
+          "description": "Bis zu 2 Hügelkämme von Dominus Lapidis können gleichzeitig existieren.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c2",
-          "title": "Stone, the Cradle of Jade",
-          "description": "Planet Befall grants nearby characters on the field a Jade Shield when it descends.",
+          "title": "Heimat der Jade",
+          "description": "Einstürzender Himmel gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c3",
-          "title": "Jade, Shimmering through Darkness",
-          "description": "Increases the Level of Dominus Lapidis by 3. Maximum upgrade level is 15.",
+          "title": "Funkelnd und doch dunkel",
+          "description": "Erhöht die Stufe der Fähigkeit Dominus Lapidis um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c4",
-          "title": "Topaz, Unbreakable and Fearless",
-          "description": "Increases Planet Befall’s AoE by 20% and increases the duration of Planet Befall’s Petrification effect by 2s.",
+          "title": "Gebrochen und doch hart",
+          "description": "Vergrößert den Wirkungsbereich von Einstürzender Himmel um 20%. Verlängert den Effekt der Versteinerung von Einstürzender Himmel um 2s.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c5",
-          "title": "Lazuli, Herald of the Order",
-          "description": "Increase the Level of Planet Befall by 3. Maximum upgrade level is 15.",
+          "title": "Verkündung der Ordnung",
+          "description": "Erhöht die Stufe der Fähigkeit Einstürzender Himmel um 3. Höchststufe 15.",
           "secondDescription": null,
           "descriptions": []
         },
         {
           "key": "c6",
-          "title": "Chrysos, Bounty of Dominator",
-          "description": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character’s Max HP.",
+          "title": "Geschenk des Bodens",
+          "description": "Stellt der aktuellen Figur LP in Höhe von 40% des Schadens wieder her, wenn der Jadeblock Schaden erleidet. Die bei jeder Heilung wiederhergestellten LP können 8% der max. LP der Figur nicht übersteigen.",
           "secondDescription": null,
           "descriptions": []
         }
@@ -4111,14 +4111,14 @@
   "weapons": [
     {
       "key": "Hunter’s Bow",
-      "name": "Hunter’s Bow",
-      "description": "A hunter’s music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.",
+      "name": "Jagdbogen",
+      "description": "Die von Jägern gespielte Musik besteht aus zwei Klängen: dem Spannen des Bogens und dem Sausen der Pfeile.",
       "refinement": null
     },
     {
       "key": "Seasoned Hunter’s Bow",
-      "name": "Seasoned Hunter’s Bow",
-      "description": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer’s arm.",
+      "name": "Alter Jagdbogen",
+      "description": "Ein in die Jahre gekommener, aber gut gepflegter Bogen. Er funktioniert so gut, als arbeite der Bogen mit dem Schützen zusammen.",
       "refinement": null
     },
     {
@@ -4129,103 +4129,103 @@
     },
     {
       "key": "Messenger",
-      "name": "Messenger",
-      "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
-      "refinement": "Charged Attack hits on weak points deal an additional {{0}}% ATK DMG as CRIT DMG. Can only occur once every 10s."
+      "name": "Überbringer",
+      "description": "Ein alter Holzbogen, mit dem man früher wohl einmal Nachrichten übermittelt hat.",
+      "refinement": "Verursacht beim Treffen von Schwachstellen mit heftigen Schaden zusätzlichen Schaden in Höhe von {{0}}% ANG sowie auf jeden Fall einen KT. 10s Abklingzeit."
     },
     {
       "key": "Raven Bow",
-      "name": "Raven Bow",
-      "description": "Ravens are known to be the ferrymen of the dead. This bow’s limb is decorated with raven feathers, which forebode the imminent death of its target.",
+      "name": "Rabenbogen",
+      "description": "Raben sind in den Mythen die Gesandten des Todes. Rabenfedern schmücken den Bogen und geben der Beute so schon beim Abschuss des Pfeils die Nachricht ihres Todes bekannt.",
       "refinement": "Increases DMG against enemies affected by Hydro or Pyro by {{0}}%"
     },
     {
       "key": "Recurve Bow",
-      "name": "Recurve Bow",
-      "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
-      "refinement": "Defeating an opponent restores {{0}}% HP"
+      "name": "Reflexbogen",
+      "description": "Mid diesem Jagdbogen soll man selbst einen Adler im Flug aus dem Himmel holen können. Das hängt aber doch sehr stark von der Kunst des Schützen ab.",
+      "refinement": "Stellt beim besiegen eines Gegners {{0}}% LP wieder her."
     },
     {
       "key": "Sharpshooter’s Oath",
-      "name": "Sharpshooter’s Oath",
-      "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
-      "refinement": "Increases DMG against weak spots by {{0}}%"
+      "name": "Eid des Scharfschützen",
+      "description": "Dieser perfekt ausgearbeitete Bogen gehörte angeblich einst einem meisterlichen Bogenschützen. Aufgrund seines starken Geruchs eignet er sich aber nicht gut zum Jagen.",
+      "refinement": "Erhöht den Schwachstellen zugefügten Schaden um {{0}}%."
     },
     {
       "key": "Slingshot",
-      "name": "Slingshot",
-      "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
-      "refinement": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by {{0}}%. Otherwise, decreases DMG by 10%."
+      "name": "Steinschleuder",
+      "description": "Eigentlich ein Bogen. Nach unzähligen Verbesserungen und Experimenten, um die ultimative Steinschleuder zu schaffen, stand der Erfinder am Ende mit einem Bogen in der Hand da.",
+      "refinement": "Erhöht den Schaden beim Treffen von Gegnern mit Pfeilen von standard Angriffen und heftigen Schlägen innerhalb von 0,3s nach dem Abschießen eines Pfeils um {{0}}%, verringert den verursachten Schaden ansonsten jedoch um 10%."
     },
     {
       "key": "The Stringless",
-      "name": "The Stringless",
+      "name": "Der Sehnenlose",
       "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
       "refinement": "Increases Elemental Skill and Elemental Burst DMG by {{0}}%."
     },
     {
       "key": "Alley Hunter",
-      "name": "Alley Hunter",
+      "name": "Gassenjäger",
       "description": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
       "refinement": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by {{0}}% every second up to a max of {{1}}%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by {{2}}% per second until it reaches 0%."
     },
     {
       "key": "Blackcliff Warbow",
-      "name": "Blackcliff Warbow",
+      "name": "Schwarzstein Kriegsbogen",
       "description": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
       "refinement": "After defeating an enemy, ATK is increased by {{0}}% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     },
     {
       "key": "Compound Bow",
-      "name": "Compound Bow",
+      "name": "Compoundbogen",
       "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
       "refinement": "Normal Attack and Charged Attack hits increase ATK by {{0}}% and Normal ATK SPD by {{1}}% for 6s. Max 4 stacks. Can only occur once every 0.3s."
     },
     {
       "key": "Favonius Warbow",
-      "name": "Favonius Warbow",
-      "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+      "name": "Favonius Jagdbogen",
+      "description": "Der Standard Reflexbogen des Ordo Favonius, den nur die besten Schützen bedienen und seine Leistung voll ausnutzen können.",
       "refinement": "CRIT Hits have a {{0}}% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every {{1}}s."
     },
     {
       "key": "Prototype Crescent",
-      "name": "Prototype Crescent",
+      "name": "Mondschein Prototyp",
       "description": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
       "refinement": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by {{0}}% for 10s."
     },
     {
       "key": "Royal Bow",
-      "name": "Royal Bow",
+      "name": "Königlicher Jagdbogen",
       "description": "An old royal longbow that belonged to the erstwhile rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
       "refinement": "Upon damaging an opponent, increases CRIT Rate by {{0}}%. Max 5 stacks. A CRIT hit removes all stacks."
     },
     {
       "key": "Rust",
-      "name": "Rust",
+      "name": "Rostiger Bogen",
       "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
       "refinement": "Increases Normal Attack DMG by {{0}}% but decreases Charged Attack DMG by 10%."
     },
     {
       "key": "Sacrificial Bow",
-      "name": "Sacrificial Bow",
-      "description": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
-      "refinement": "After damaging an opponent with an Elemental Skill, the skill has a {{0}}% chance to end its own CD. Can only occur once every {{1}}s"
+      "name": "Opferbogen",
+      "description": "Ein über die Zeit verkrusteter Bogen mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.",
+      "refinement": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden dieser Fähigkeit mit einer Wahrscheinlichkeit von {{0}}%, {{1}}s Abklingzeit."
     },
     {
       "key": "The Viridescent Hunt",
-      "name": "The Viridescent Hunt",
+      "name": "Grasgrüner Jagdbogen",
       "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
       "refinement": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing {{0}}% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every {{1}}s"
     },
     {
       "key": "Skyward Harp",
-      "name": "Skyward Harp",
+      "name": "Himmelsflügel",
       "description": "A greatbow that symbolizes Dvalin’s affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon’s ears. It contains the power of the sky and wind within.",
       "refinement": "Increases CRIT DMG by {{0}}%. Hits have a {{1}}% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every {{2}}s."
     },
     {
       "key": "Amos’ Bow",
-      "name": "Amos’ Bow",
+      "name": "Amos’ Bogen",
       "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
       "refinement": "Increases Normal and Charged Attack DMG by {{0}}%. Normal and Charged Attack DMG increases by {{1}}% every 0.1s for up to 5 times."
     },
@@ -4237,21 +4237,21 @@
     },
     {
       "key": "Dull Blade",
-      "name": "Dull Blade",
-      "description": "Youthful dreams and the thrill of adventure. If this isn’t enough, then make it up with valiance.",
+      "name": "Stumpfes Schwert",
+      "description": "Die Träume eines Abenteurers und der Enthusiasmus bei der Reise sind zwei wertvolle Dinge, die das Schwert aber auch nicht schärfer machen. Mach es einfach mit Mut wieder wett!",
       "refinement": null
     },
     {
       "key": "Silver Sword",
-      "name": "Silver Sword",
-      "description": "A sword for exorcising demons. Everyone knows it’s made of a silver alloy, not pure silver.",
+      "name": "Silberschwert",
+      "description": "Ein Schwert aus Silber, mit dem man Dämonen vertreiben kann. Aber eigentlich weiß jeder, dass so ein Schwert nicht aus purem Silber besteht, sondern lediglich aus einer Legierung.",
       "refinement": null
     },
     {
       "key": "Cool Steel",
-      "name": "Cool Steel",
-      "description": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
-      "refinement": "Increases DMG against enemies affected by Hydro or Cryo by {{0}}%"
+      "name": "Kühle Kling",
+      "description": "Eine stabile Waffe aus mehrfach gefaltetem Stahl, die ihrem ehemaligen Besitzer bei vielen Abenteuern nützlich war.",
+      "refinement": "Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um {{0}}%."
     },
     {
       "key": "Dark Iron Sword",
@@ -4261,128 +4261,128 @@
     },
     {
       "key": "Fillet Blade",
-      "name": "Fillet Blade",
-      "description": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+      "name": "Filetiermesser",
+      "description": "Ein eisernes Messer zum filetieren von Fisch. Die Klinge ist nicht nur lang und schmal, sondern auch äußerst scharf.",
       "refinement": "On hit, has a 50% chance to deal {{0}}% ATK DMG to a single enemy. Can only occur once every {{1}}s."
     },
     {
       "key": "Harbinger of Dawn",
-      "name": "Harbinger of Dawn",
-      "description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+      "name": "Schwert der Dämmerung",
+      "description": "Ein wertvolles Schwert, das einst wie die Sonne glänzte. Hält man es in der Hand, fühlt man sich äußerst selbstbewusst. Das leuchtende Material hat sich mit der Zeit abgenutzt.",
       "refinement": "When HP is above 90%, increases CRIT Rate by {{0}}%."
     },
     {
       "key": "Skyrider Sword",
-      "name": "Skyrider Sword",
-      "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
+      "name": "Himmelsflug-Schwert",
+      "description": "Ein recht robustes Schwert. Der sagenumwobene \"Schwertprinz\" hat einst versucht, mit ihm gen Himmel zu fliegen.",
       "refinement": "Using an Elemental Burst grants a {{0}}% increase in ATK and Movement SPD for 15s."
     },
     {
       "key": "Traveler’s Handy Sword",
-      "name": "Traveler’s Handy Sword",
-      "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+      "name": "Reiseschwert",
+      "description": "Ein praktisches Schwert aus Stahl, in dessen Scheide sich unter anderem Schere, Fernglas und Zunder für die Reise befinden.",
       "refinement": "Each Elemental Orb or Particle collected restores {{0}}% HP."
     },
     {
       "key": "Blackcliff Longsword",
-      "name": "Blackcliff Longsword",
+      "name": "Schwarzstein Langschwert",
       "description": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
       "refinement": "After defeating an enemy, ATK is increased by {{0}}% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     },
     {
       "key": "Favonius Sword",
-      "name": "Favonius Sword",
+      "name": "Favonius-Schwert",
       "description": "A standard-issue longsword of the Knights of Favonius. When you’re armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
       "refinement": "CRIT Hits have a {{0}}% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every {{1}}s."
     },
     {
       "key": "Iron Sting",
-      "name": "Iron Sting",
+      "name": "Eisenschwert",
       "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
       "refinement": "Dealing Elemental DMG increases all DMG by {{0}}% for 6s. Max 2 stacks. Can occur once every 1s."
     },
     {
       "key": "Lion’s Roar",
-      "name": "Lion’s Roar",
-      "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
-      "refinement": "Increases DMG against enemies affected by Pyro or Electro by {{0}}%"
+      "name": "Drachenschrei",
+      "description": "Eine aufwendig gefertigte Klinge, die jedoch nichts an Biegsamkeit und Schärfe einbüßt. Schwingt man sie durch die Luft, ist es als höre man einen Drachen schreien.",
+      "refinement": "Erhöht den von Pyro- oder Elektro-Effekten betroffenen Gegnern zugefügten Schaden um {{0}}%."
     },
     {
       "key": "Prototype Rancour",
-      "name": "Prototype Rancour",
-      "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+      "name": "Steinschneider Prototyp",
+      "description": "Ein uraltes Schwert aus der Schwarzsteinschmiede, das durch Felsen gleitet, als wäre es Butter.",
       "refinement": "On hit, Normal or Charged Attacks increase ATK and DEF by {{0}}% for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
     },
     {
       "key": "Royal Longsword",
-      "name": "Royal Longsword",
+      "name": "Königliches Langschwert",
       "description": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
       "refinement": "Upon damaging an opponent, increases CRIT Rate by {{0}}%. Max 5 stacks. A CRIT hit removes all stacks."
     },
     {
       "key": "Sacrificial Sword",
-      "name": "Sacrificial Sword",
-      "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
-      "refinement": "After damaging an opponent with an Elemental Skill, the skill has a {{0}}% chance to end its own CD. Can only occur once every {{1}}s"
+      "name": "Opferschwert",
+      "description": "Ein über die Zeit verkrustetes Schwert mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.",
+      "refinement": "Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden dieser Fähigkeit mit einer Wahrscheinlichkeit von {{0}}%, {{1}}s Abklingzeit."
     },
     {
       "key": "The Alley Flash",
-      "name": "The Alley Flash",
+      "name": "Gassenleuchte",
       "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
       "refinement": "Increases DMG dealt by the character equipping this weapon by {{0}}%. Taking DMG disables this effect for 5s."
     },
     {
       "key": "The Black Sword",
-      "name": "The Black Sword",
+      "name": "Schwarzes Schwert",
       "description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
       "refinement": "Increases DMG dealt by Normal and Charged Attacks by {{0}}%. Additionally, regenerates {{1}}% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
     },
     {
       "key": "The Flute",
-      "name": "The Flute",
+      "name": "Flöte",
       "description": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
       "refinement": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals {{0}}% ATK DMG to surrounding enemies. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
     },
     {
       "key": "Sword of Descension",
-      "name": "Sword of Descension",
+      "name": "Schwert der Niederkunft",
       "description": "A sword of unique craftsmanship. It does not appear to belong to this world.",
       "refinement": "Hitting opponents with Normal and Charged Attacks grants a {{0}}% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by {{1}}."
     },
     {
       "key": "Festering Desire",
-      "name": "Festering Desire",
-      "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
-      "refinement": "Increases Elemental Skill DMG by {{0}}% and Elemental Skill CRIT Rate by {{1}}%."
+      "name": "Schwert der Verderbnis",
+      "description": "Ein recht unheimliches, sehr gerades Schwert, das sich nach Lebenskraft zu sehnen scheint. Es trieft von einem säureartigen Gift, welches sogar einen mächtigen Drachen töten könnte.",
+      "refinement": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um {{0}}% und die KT von Elementarfähigkeiten um  {{1}}%."
     },
     {
       "key": "Aquila Favonia",
-      "name": "Aquila Favonia",
+      "name": "Windfalke",
       "description": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil  just like the last heroine who wielded it.",
       "refinement": "ATK is increased by {{0}}%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to {{1}}% of ATK and dealing {{2}}% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s."
     },
     {
       "key": "Skyward Blade",
-      "name": "Skyward Blade",
+      "name": "Himmelsklinge",
       "description": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
       "refinement": "CRIT Rate increased by {{0}}%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by {{1}}% for 12s."
     },
     {
       "key": "Summit Shaper",
-      "name": "Summit Shaper",
+      "name": "Gibfelbrecher",
       "description": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
       "refinement": "Increases Shield Strength by {{0}}%. Scoring hits on opponents increases ATK by {{1}}% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
     },
     {
       "key": "Apprentice’s Notes",
-      "name": "Apprentice’s Notes",
-      "description": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful.",
+      "name": "Aufzeichnungen eines Lehrlings",
+      "description": "Die Aufzeichnungen eines sehr begabten Schülers. Die Handschrift ist wunderschön und gibt so einige nützliche Zaubersprüche wieder.",
       "refinement": null
     },
     {
       "key": "Pocket Grimoire",
-      "name": "Pocket Grimoire",
-      "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.",
+      "name": "Taschenzauberbuch",
+      "description": "Ein gewissenhaft verfasstes Büchlein mit Hinweisen zu Prüfungsinhalten der Magie.",
       "refinement": null
     },
     {
@@ -4393,9 +4393,9 @@
     },
     {
       "key": "Emerald Orb",
-      "name": "Emerald Orb",
-      "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. It is small, light, and durable.",
-      "refinement": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by {{0}}% for 12s."
+      "name": "Jadekugel",
+      "description": "Ein magischer Katalysator geschnitzt aus der harten Jade aus der Jueyun-Karst im norden Liyues. Handlich, leicht und haltbar. Es wird weiterhin auch als \"Jadeperle\" bezeichnet.",
+      "refinement": "Erhöht den ANG der Reaktionen \"Verdampfen\", \"Unter Strom\", \"Gefroren\" und \"Hydro-Verwirbelung\" 12s lang um {{0}}%."
     },
     {
       "key": "Magic Guide",
@@ -4677,7 +4677,7 @@
       "key": "Crescent Pike",
       "name": "Crescent Pike",
       "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
-      "refinement": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to {{0}}% of ATK for 5s."
+      "refinement": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional {{0}}% ATK DMG for 5s."
     },
     {
       "key": "Deathmatch",
@@ -4785,141 +4785,141 @@
   "artifacts": [
     {
       "key": "Adventurer",
-      "name": "Adventurer",
+      "name": "Abenteurer",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Max HP increased by 1000."
+          "bonus": "Erhöht die max. LP um 1000."
         },
         {
           "key": "b2",
-          "bonus": "Opening a chest regenerates 30% Max HP over 5s."
+          "bonus": "Stellt nach dem Öffnen jeglicher Truhen 5 s lang 30 % LP wieder her. "
         }
       ]
     },
     {
       "key": "Traveling Doctor",
-      "name": "Traveling Doctor",
+      "name": "Wanderarzt",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases incoming healing by 20%."
+          "bonus": "Erhöht den passiven Heileffekt der Figur um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Using Elemental Burst restores 20% HP."
+          "bonus": "Stellt bei Anwendung von Spezialfähigkeiten 20% LP wieder her."
         }
       ]
     },
     {
       "key": "Lucky Dog",
-      "name": "Lucky Dog",
+      "name": "Glückspilz",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "DEF increased by 100."
+          "bonus": "Erhöht die VTD um 100 Punkte."
         },
         {
           "key": "b2",
-          "bonus": "Picking up Mora restores 300 HP."
+          "bonus": "Stellt beim Sammeln von Mora 300 LP wieder her."
         }
       ]
     },
     {
       "key": "Resolution of Sojourner",
-      "name": "Resolution of Sojourner",
+      "name": "Fernweh",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "ATK +18%."
+          "bonus": "Erhöht den ANG um 18 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases Charged Attack CRIT Rate by 30%."
+          "bonus": "Erhöht den KT heftiger Schläge um 30 %."
         }
       ]
     },
     {
       "key": "Tiny Miracle",
-      "name": "Tiny Miracle",
+      "name": "Wunder",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "All Elemental RES increased by 20%."
+          "bonus": "Erhöht den WDS gegen alle Elemente um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+          "bonus": "Erhöht den jeweiligen WDS nach Erleiden von Elementar-SCH 10 s lang um 30%. 10 s Abklingzeit."
         }
       ]
     },
     {
       "key": "Brave Heart",
-      "name": "Brave Heart",
+      "name": "Wagemut",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "ATK +18%."
+          "bonus": "Erhöht den ANG um 18 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases DMG by 30% against enemies with more than 50% HP."
+          "bonus": "Erhöht den Gegner mit mehr als 50 % LP zugefügten Schaden um 30 %."
         }
       ]
     },
     {
       "key": "Defender’s Will",
-      "name": "Defender’s Will",
+      "name": "Beschützerinstinkt",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "DEF +30%."
+          "bonus": "Erhöht die VTD um 30 %."
         },
         {
           "key": "b2",
-          "bonus": "For each different element present in your own party, the wearer’s Elemental RES to that corresponding element is increased by 30%."
+          "bonus": "Erhöht für jedes unterschiedliche Element der eigenen Figur in der Truppe den eigenen WDS des jeweiligen Elementes um 30 %."
         }
       ]
     },
     {
       "key": "Martial Artist",
-      "name": "Martial Artist",
+      "name": "Kampfkünstler",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases Normal Attack and Charged Attack DMG by 15%."
+          "bonus": "Erhöht den mit Standartangriffen und heftigen Schlägen verursachten Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+          "bonus": "Erhöht den mit Standardangriff und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 s lang um 25 %."
         }
       ]
     },
     {
       "key": "Gambler",
-      "name": "Gambler",
+      "name": "Glücksspieler",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases Elemental Skill DMG by 20%."
+          "bonus": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Defeating an enemy has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+          "bonus": "Überspringt die Abklingzeit der Elementarfähigkeit beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100 %.15 s Abklingzeit."
         }
       ]
     },
     {
       "key": "Scholar",
-      "name": "Scholar",
+      "name": "Gelehrter",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Energy Recharge +20%."
+          "bonus": "Erhöht die Aufladerate um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+          "bonus": "Stellt allen Truppenmitgliedern mit Bögen und Katalysatoren beim Erhalten von Elementarteilchen und Elementarkristallen zusätzlich 3 Punkte Elementarenergie wieder her. 3 s Abklingzeit."
         }
       ]
     },
@@ -4929,275 +4929,275 @@
       "bonus": [
         {
           "key": "b1",
-          "bonus": "CRIT Rate +12%."
+          "bonus": "Erhöht die KT um 12 %."
         },
         {
           "key": "b2",
-          "bonus": "When HP is below 70%, CRIT Rate increases by an additional 24%."
+          "bonus": "Erhöht die KT be weniger als 70 % LP um 24 %."
         }
       ]
     },
     {
       "key": "Instructor",
-      "name": "Instructor",
+      "name": "Ausbilder",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases Elemental Mastery by 80."
+          "bonus": "Erhöht Elementarkunde um 80 Punkte."
         },
         {
           "key": "b2",
-          "bonus": "Upon triggering an Elemental Reaction, increases all party members’ Elemental Mastery by 120 for 8s."
+          "bonus": "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8 s lang um 120 Punnkte."
         }
       ]
     },
     {
       "key": "The Exile",
-      "name": "The Exile",
+      "name": "Verbannter",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Energy Recharge +20%."
+          "bonus": "Erhöht die Aufladerate um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+          "bonus": "Stellt allen Truppenmitgliedern ( außer sich selbst ) bei Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 2 Punkte Elementarenergie wieder her, nicht stapelbar."
         }
       ]
     },
     {
       "key": "Thundering Fury",
-      "name": "Thundering Fury",
+      "name": "Donnernder Zorn",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Electro DMG Bonus +15%."
+          "bonus": "Erhöht den Elektro-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s."
+          "bonus": "Erhöht den mit den Effekten \"Überladen\", \"Unter Strom\", und \"Supraleiter\" verursachten Schaden im 40 %.Verringert die Abklingzeit der Elementatfähigkeit beim Auslösen dieser Elementareffekte um 1s. 0,8 s Abklingzeit."
         }
       ]
     },
     {
       "key": "Thundersoother",
-      "name": "Thundersoother",
+      "name": "Donner beruhigender Weiser",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Electro RES increased by 40%."
+          "bonus": "Erhöht den Elektro-WDS um 40 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases DMG against enemies affected by Electro by 35%."
+          "bonus": "Erhöht den von Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %."
         }
       ]
     },
     {
       "key": "Viridescent Venerer",
-      "name": "Viridescent Venerer",
+      "name": "Grünlicher Schatten",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Anemo DMG Bonus +15%."
+          "bonus": "Erhöht den Anemo-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases Swirl DMG by 60%. Decreases opponent’s Elemental RES to the element infused in the Swirl by 40% for 10s."
+          "bonus": "Erhöht mit Verwirbelungen verursachten Schaden um 60 %. Verringert den dem jeweiligen Element in der Verwirbelung entsprechenden WDS des betroffenen Gegner 10 s lang um 40 %."
         }
       ]
     },
     {
       "key": "Maiden Beloved",
-      "name": "Maiden Beloved",
+      "name": "Ins Herz geschlossene Mädchen",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Character Healing Effectiveness +15%."
+          "bonus": "Erhöht den aktiven Heileffekt der Figur um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+          "bonus": "Erhöht den passiven Heileffekt aller Truppenmitglieder nach Anwendung von Elementarfähigkeiten 10 s lang um 20 %."
         }
       ]
     },
     {
       "key": "Archaic Petra",
-      "name": "Archaic Petra",
+      "name": "Archaischer Fels",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Gain a 15% Geo DMG Bonus."
+          "bonus": "Erhöht den Geo-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+          "bonus": "Erhöt beim Erschaffen von Splittern durch einen Kristallisationsreaktion den mit dem jeweiligen Element verursachten Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
         }
       ]
     },
     {
       "key": "Retracing Bolide",
-      "name": "Retracing Bolide",
+      "name": "Umgekehrter Meteor",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases Shield Strength by 35%."
+          "bonus": "Erhöht die Schildeffizienz um 35 %."
         },
         {
           "key": "b2",
-          "bonus": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+          "bonus": "Erhöht den Schaden von Standardangriffen und heftigen Schlägen bei aktivem Schild zusätzlich um 40 %."
         }
       ]
     },
     {
       "key": "Crimson Witch of Flames",
-      "name": "Crimson Witch of Flames",
+      "name": "Brennende Pyro-Hexe",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Pyro DMG Bonus +15%."
+          "bonus": "Erhöht den Pyro-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks."
+          "bonus": "Erhöt den mit den Reaktionen \"Überladen\" und \"In Flammen\" verursachten Schaden um 40 % und den von den Reaktionen \"Verdampfen\" und \"Schmelzen\" betroffenen Gegner zugefügten Schaden um 15 %. Erhöht den Effekten eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %. 3-fach stapelbar."
         }
       ]
     },
     {
       "key": "Lavawalker",
-      "name": "Lavawalker",
+      "name": "Feuer durch gewandernder Heiliger",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Pyro RES increased by 40%."
+          "bonus": "Erhöt den Pyro-WDS um 40 %."
         },
         {
           "key": "b2",
-          "bonus": "Increases DMG against enemies affected by Pyro by 35%."
+          "bonus": "Erhöht den bon Pyro-Effekten betroffenen Gegner zugefügten Schaden um 35 %."
         }
       ]
     },
     {
       "key": "Bloodstained Chivalry",
-      "name": "Bloodstained Chivalry",
+      "name": "Blutiger Weg eines Ritters",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Physical DMG +25%."
+          "bonus": "Erhöht den verursachten physischen Schaden um 25 %."
         },
         {
           "key": "b2",
-          "bonus": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+          "bonus": "Verbraucht beim Besiegen von Gegner 10 s lang für die Anwendung von hefitgen Schlägen keine Ausdauer und erhöht den mit heftigen Schlägen verursachten Schaden um 50 %."
         }
       ]
     },
     {
       "key": "Noblesse Oblige",
-      "name": "Noblesse Oblige",
+      "name": "Altes Hoftitual",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Elemental Burst DMG +20%."
+          "bonus": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %."
         },
         {
           "key": "b2",
-          "bonus": "Using an Elemental Burst increases all party members’ ATK by 20% for 12s. This effect cannot stack."
+          "bonus": "Erhöht den ANG aller Truppenmitglieder nach Anwendung von Spezialfähigkeiten 12 s lang um 20 %. Nicht stapelbar."
         }
       ]
     },
     {
       "key": "Gladiator’s Finale",
-      "name": "Gladiator’s Finale",
+      "name": "Verbeugung des Gladiators",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "ATK +18%."
+          "bonus": "Erhöht den ANG um 18 %."
         },
         {
           "key": "b2",
-          "bonus": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+          "bonus": "Erhöht den mit Standardangriffen verursachten Schaden, wenn die mit diesem Artefaktenset ausgestattete Figur einen Einhänder, einen Zweihänder oder eine Stangenwaffe trägt, um 35 %."
         }
       ]
     },
     {
       "key": "Wanderer’s Troupe",
-      "name": "Wanderer’s Troupe",
+      "name": "Wanderorchester",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Increases Elemental Mastery by 80."
+          "bonus": "Erhöht Elementarkunde um 80 Punkte."
         },
         {
           "key": "b2",
-          "bonus": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+          "bonus": "Erhöht den mit heftigen Schlägen verursachten Schaden, wenn die Figur Katalysator oder einen Bogen trägt, um 35 %."
         }
       ]
     },
     {
       "key": "Prayers for Illumination",
-      "name": "Prayers for Illumination",
+      "name": "Feueropfer",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Affected by Pyro for 40% less time."
+          "bonus": "Veringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %."
         }
       ]
     },
     {
       "key": "Prayers for Destiny",
-      "name": "Prayers for Destiny",
+      "name": "Wasseropfer",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Affected by Hydro for 40% less time."
+          "bonus": "Verringert die Dauer der Beeinträchtigung durch zusätliches Hydro-Attribut um 40 %."
         }
       ]
     },
     {
       "key": "Prayers for Wisdom",
-      "name": "Prayers for Wisdom",
+      "name": "Blitzopfer",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Affected by Electro for 40% less time."
+          "bonus": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 %."
         }
       ]
     },
     {
       "key": "Prayers to Springtime",
-      "name": "Prayers to Springtime",
+      "name": "Eisopfer",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Affected by Cryo for 40% less time."
+          "bonus": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kyro-Attribut um 40 %."
         }
       ]
     },
     {
       "key": "Blizzard Strayer",
-      "name": "Blizzard Strayer",
+      "name": "Im Schnee irrender Recke",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Cryo DMG Bonus +15%."
+          "bonus": "Erhöht den Kyro-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%."
+          "bonus": "Erhöht den KT beim Angreifen von Kyro-Effekten betroffener Gegner um 20 %. Erhöht den KT bei von Gefroren betroffenen Gegner zusätzlich um 20 %."
         }
       ]
     },
     {
       "key": "Heart of Depth",
-      "name": "Heart of Depth",
+      "name": "Tief im Herzen",
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Hydro DMG Bonus +15%."
+          "bonus": "Erhöht den Hydro-Schaden um 15 %."
         },
         {
           "key": "b2",
-          "bonus": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+          "bonus": "Erhöht den mit Standartangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 15 s lang um 30 %."
         }
       ]
     },
@@ -5207,7 +5207,7 @@
       "bonus": [
         {
           "key": "b1",
-          "bonus": "Cryo DMG Bonus +15%."
+          "bonus": "Erhöht den Kyro-Schaden um 15 %.."
         },
         {
           "key": "b2",
@@ -5257,147 +5257,147 @@
   "materials": [
     {
       "key": "FreedomA",
-      "name": "Teachings of Freedom",
-      "description": "Freedom is the spirit of the land of the wind.\nThe freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety."
+      "name": "Lehren der Freiheit",
+      "description": "Freiheit ist der Geist des Reiches des Windes.\nFreiheit ist erstens die Freiheit zu leben, gesund und unversehrt, ohne sich Sorgen über den nächsten Tag machen zu müssen."
     },
     {
       "key": "FreedomB",
-      "name": "Guide to Freedom",
-      "description": "Freedom is the spirit of the land of the wind.\nThe freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed."
+      "name": "Anleitung zur Freiheit",
+      "description": "Freiheit ist der Geist des Reiches des Windes.\nFreiheit ist zweitens, sich beliebig bewegen und überall unter dem blauen Himmel wandern zu können, ohne an einen Ort gebunden zu sein."
     },
     {
       "key": "FreedomC",
-      "name": "Philosophies of Freedom",
-      "description": "Freedom is the spirit of the land of the wind.\nTo sing is one such freedom. To sing on the land created by the Anemo Archon is to send your heart away with the song on the wind."
+      "name": "Philosophie der Freiheit",
+      "description": "Freiheit ist der Geist des Reiches des Windes.\nFreiheit ist drittens, überall im Land, geschaffen vom Gott des Windes, singen zu können und seine Stimme eins mit dem Wind werden zu lassen."
     },
     {
       "key": "ProsperityA",
-      "name": "Teachings of Prosperity",
-      "description": "Prosperity is the people's pursuit in the land of Geo.\nProsperity is the blessing of Liyue, it is the foundation of the great city built by the gods and the people of Liyue, and it is the source of the peace and safety of the land."
+      "name": "Lehren des Wohlstands",
+      "description": "Wohlstand ist das Ziel des Reiches des Gesteins.\nDer Wohlstand ist Liyues Gnade. Er ist die wundervolle Stadt Liyue, errichtet von Götter und Menschen gemeinsam. Er ist die Quelle der Sicherheit und des Friedens des Landes."
     },
     {
       "key": "ProsperityB",
-      "name": "Guide to Prosperity",
-      "description": "Prosperity is the people's pursuit in the land of Geo.\nProsperity is the promise made by Liyue to its children: To repay the hard-working laborers with enough gold to brighten up this land."
+      "name": "Anleitung zum Wohlstand",
+      "description": "Wohlstand ist das Ziel des Reiches des Gesteins.\nDer Wohlstand ist Liyues Versprechen an seine Kinder: Er ist der Lohn für den Fleiß der Menschen, das funkelnde Gold im Herzen der Erde."
     },
     {
       "key": "ProsperityC",
-      "name": "Philosophies of Prosperity",
-      "description": "Prosperity is the people's pursuit in the land of Geo.\nProsperity is Liyue's past, present, and future. This prosperity is unmatched and unobtainable by any other nations — it all belongs to Liyue and its inhabitants."
+      "name": "Philosophies des Wohlstands",
+      "description": "Wohlstand ist das Ziel des Reiches des Gesteins.\nDer Wohlstand ist Liyues Vergangenheit, Gegenwart und Zukunft, unerreichbar für alle anderen. Allein Liyue und seine Kinder können sich an ihm erfreuen."
     },
     {
       "key": "DilligenceA",
-      "name": "Teachings of Dilligence",
-      "description": "Industriousness is the foundation of the land of Geo.\nDiligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work."
+      "name": "Lehren des Fleißes",
+      "description": "Fleiß ist die Grundlage des Reiches des Gesteins.\nDer Fleiß bringt die Menschen dazu, selbst die höchsten Berge und die tiefsten Gewässer zu bezwingen. Er gibt ihnen den Mut und die Kraft, nach Wohlstand und Gold zu streben."
     },
     {
       "key": "DilligenceB",
-      "name": "Guide to Dilligence",
-      "description": "Industriousness is the foundation of the land of Geo.\nIndustriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold. It is what lies behind the greatness of its great commercial port."
+      "name": "Anleitung zum Fleiß",
+      "description": "Fleiß ist die Grundlage des Reiches des Gesteins.\nDer Fleiß ist der Katalysator in den Menschen von Liyue, der Stein in Gold verwandelt. Er ist der Grund, weshalb Liyues Hafen so großen Einfluss ausübt.."
     },
     {
       "key": "DilligenceC",
-      "name": "Philosophies of Dilligence",
-      "description": "Industriousness is the foundation of the land of Geo.\nIndustriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power."
+      "name": "Philosophie des Fleißes",
+      "description": "Fleiß ist die Grundlage des Reiches des Gesteins.\nDer Fleiß ist der Glaube an einen selbst. Er ist der Glaube an seinen Schweiß, seine Weisheit und seine Kraft. Jeder hat in der Welt, geschaffen von den Göttern, seinen Platz."
     },
     {
       "key": "ResistanceA",
-      "name": "Teachings of Resistance",
-      "description": "Resistance is the backbone of the land of the wind.\nThe history of Mondstadt is one of resistances. People rose up to prevent past conflicts from ever being forgotten, like sprouts breaking through the soil, like the eternal wind eroding through stone walls."
+      "name": "Lehren des Widerstands",
+      "description": "Widerstand ist Stütze des Reiches des Windes.\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts darf nicht vergessen werden. Er ist wie das Gras, das die Erdoberfläche durchbricht, wie der Wind, der die Mauer aushöhlt."
     },
     {
       "key": "ResistanceB",
-      "name": "Guide to Resistance",
-      "description": "Resistance is the backbone of the city of Wind.\nThe history of Mondstadt is one of resistances. People rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow, or like Vennessa rising up to fight."
+      "name": "Anleitung zum Widerstand",
+      "description": "Widerstand ist Stütze des Reiches des Windes.\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts lässt die Menschen in Freiheit leben. Er ist wie der Schnee, den der Gott des Windes durch das Land treibt, wie Vennessa im Kampf gegen die Unterdrücker."
     },
     {
       "key": "ResistanceC",
-      "name": "Philosophies of Resistance",
-      "description": "Resistance is the backbone of the land of the wind.\nThe history of Mondstadt is one of resistances. People rose up to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land."
+      "name": "Philosophie des Widerstands",
+      "description": "Widerstand ist Stütze des Reiches des Windes.\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts wird in Liedern besungen werden. Der Wind wird ihn so bis in ferne Gegenden tragen."
     },
     {
       "key": "BalladA",
-      "name": "Teachings of Ballad",
-      "description": "Poetry is the soul of the land of the wind.\nPoetry is the manifestations of beautiful feelings. On a beautiful day, the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves."
+      "name": "Lehren der Poesie",
+      "description": "Poesie ist die Seele des Reiches des Windes.\nDie Poesie ist die Darstellung der Schönheit. An schönen Tagen trägt der Wind über den Felder Gedichte über Heimat und Liebe mit sich. Die Poesie bewegt die Menschen wie der Wind das Gras."
     },
     {
       "key": "BalladB",
-      "name": "Guide to Ballad",
-      "description": "Poetry is the soul of the land of the wind.\nPoetry is the manifestations of the will to encourage. In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm."
+      "name": "Anleitung zur Poesie",
+      "description": "Poesie ist die Seele des Reiches des Windes.\nDie Poesie ist die Darstellung des Tatendrangs. An düsteren Tagen trägt der Wind in den Gassen Geflüster über unheilvolle Gedanken mit sich. Die Poesie ist wie die Kriegstrommel, wie das leise Vogelgezwitscher vor dem Sturm."
     },
     {
       "key": "BalladC",
-      "name": "Philosophies of Ballad",
-      "description": "Poetry is the soul of the land of the wind.\nPoetry is the manifestations of the desire to spread the word. Though nothing is eternal, though nothing will be the same, the wind's poetry will still spread beyond the skies, the land, the seas to every corner of the world."
+      "name": "Philosophie der Poesie",
+      "description": "Poesie ist die Seele des Reiches des Windes.\nDie Poesie ist die Darstellung der Überlieferung. Selbst wenn alles vergangen ist, nichts mehr existiert, wird der Wind die Gedichte weitergetragen, wird alles Schöne weiter durch den Himmel, das Land und das Meer treiben."
     },
     {
       "key": "GoldA",
-      "name": "Teachings of Gold",
-      "description": "Gold is the symbol of the land of Geo.\nGold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud."
+      "name": "Lehren des Golds",
+      "description": "Gold ist das Symbol des Reiches des Gesteins.\nDas Gold fließt in den Adern Liyues. Es nährt Liyues Herz und gibt seinen Muskeln die Kraft, stolz und erhaben aufrecht zu stehen."
     },
     {
       "key": "GoldB",
-      "name": "Guide to Gold",
-      "description": "Gold is the symbol of the land of Geo.\nGold symbolizes conversion. This is the unspoken understanding between Liyue's mountains, land, city, and people. In Liyue, industriousness is converted into gold, and gold into prosperity."
+      "name": "Anleitung zum Gold",
+      "description": "Gold ist das Symbol des Reiches des Gesteins.\nDas Gold bedeutet Umwandlung. Es steht für die Beziehung zwischen Bergen, der Erde, dem Hafen und den Menschen. In Liyue wird Fleiß in Gold gewandelt und Gold in Wohlstand."
     },
     {
       "key": "GoldC",
-      "name": "Philosophies of Gold",
-      "description": "Gold is the symbol of the land of Geo.\nGold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold."
+      "name": "Philosophie des Golds",
+      "description": "Gold ist das Symbol des Reiches des Gesteins.\nDas Gold ist Liyues Reichtum. Was Liyue zu diesem Reichtum verhilft ist jedoch der wie Gold funkelnde Geist der Menschen."
     },
     {
       "key": "Tail of Boreas",
-      "name": "Tail of Boreas",
-      "description": "A handful of tail scales from the Great Wolf King of the North.\nEven without his physical body and beyond death, Boreas still possesses extraordinary powers. He took a form comprised of ice and wind to embrace a new challenge, but even such a form could not house all of his power. The ice scales that fell during the battle still retain some of their spiritual energy.",
-      "bossName": "Andrius"
+      "name": "Schwanz des Nordwinds",
+      "description": "Einige Schuppen vom Schwanz des großen Wolfs des Nordens.\nAuch nach dem Verlust von Leben und Form hat der Wolf des Nordens noch übermenschliche Kräfte. Seine für den Kampf aus Eis und Wind geformte Hülle kann sein ganzes Wesen nicht fassen. An den Eisschuppen haften im Kampf gefallene Seelen.",
+      "bossName": "Großer Wolfskönig des Nordens, Herr von Wolfenlauf"
     },
     {
       "key": "Ring of Boreas",
-      "name": "Ring of Boreas",
-      "description": "A bit of crystallized ice from the Great Wolf King of the North.\nThis land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. Though his power may have diminished, he could still freeze the land in an instant.",
-      "bossName": "Andrius"
+      "name": "Ring des Nordwinds",
+      "description": "Einige Eiskristalle vom großen Wolf des Nordens.\nDurch dieses Land pfiff einst der eiskalte Wind des Nordens. Wie scharfkantiger Kies sausten die Eiskristalle durch die Luft. Nackte Haut zerschlitzten sie in ihrem wilden Tanz und das Blut erstarrte im Nu. Heute ist der Wolf des Nordens zwar nur noch ein Schatten seiner selbst. Er besitzt aber immer noch die Kraft, das gesamte Land mit Schnee zu bedecken.",
+      "bossName": "Großer Wolfskönig des Nordens, Herr von Wolfenlauf"
     },
     {
       "key": "Spirit Locket of Boreas",
-      "name": "Spirit Locket of Boreas",
-      "description": "A bit of the Great Wolf King of the North's power drawn from its soul.\nThis land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. In his final moments, he finally realized the chilling north wind could only extinguish life, not nurture it. Therefore, Boreas let his powers freely flow into the land to protect it and its inhabitants.",
-      "bossName": "Andrius"
+      "name": "Seele des Nordwinds",
+      "description": "Etwas Energie der Seele des Wolfs des Nordens.\nDurch dieses Land pfiff einst der eiskalte Wind des Nordens. Letztendlich hat er verstanden, dass dieser Wind das Leben nicht nährt, sondern es zerstört. Mit seinen letzten Atemzügen übertrug er seine Kraft auf dieses Land, um es und seine Bewohner auf ewig zu beschützen.",
+      "bossName": "Großer Wolfskönig des Nordens, Herr von Wolfenlauf"
     },
     {
       "key": "Dvalin's Plume",
-      "name": "Dvalin's Plume",
-      "description": "A feather from the tail of the Dragon of the East.\nAs a dragon's feather it has experienced more than a thousand years' worth of winds. One senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. Its former owner's recognition of you is what makes it content to stay in your hands.",
-      "bossName": "Dvalin"
+      "name": "Schwanzfeder des Ostwinds",
+      "description": "Eine Schwanzfeder vom Herrscher des Ostwinds von Mondstadt.\nDiese Feder ist Jahrtausende alt, bringt die Luft jedoch immer noch auf der Suche nach Freiheit in Bewegung. Trotz dieser Fluchtversuche ist diese Feder ein Zeichen der Wertschätzung ihres früheren Besitzers an dich.",
+      "bossName": "Sturmschrecken"
     },
     {
       "key": "Dvalin's Claw",
-      "name": "Dvalin's Claw",
-      "description": "A claw from the Dragon of the East.\nIt once contained the shadow dragon Durin's vile poison, having torn through the latter's flesh in battle. Thanks to your purification and healing, it is no longer toxic.",
-      "bossName": "Dvalin"
+      "name": "Klaue des Ostwinds",
+      "description": "Eine scharfe Klaue vom Herrscher des Ostwinds von Mondstadt.\nDa sie durch das Fleisch des Drachen Durin schnitt, haftete ein tödliches Gift an ihr. Nach deiner Reinigung und Heilung ist sie nicht länger giftig.",
+      "bossName": "Sturmschrecken"
     },
     {
       "key": "Dvalin's Sigh",
-      "name": "Dvalin's Sigh",
-      "description": "A bit of power taken from the whirlwinds evoked by the Dragon of the East.\nBeautiful and transparent, both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom.His enemies are the thousands who stand against the wind.",
-      "bossName": "Dvalin"
+      "name": "Atem des Ostwind",
+      "description": "Ein Teil der Kraft der vom Herrscher des Ostwinds von Mondstadt heraufbeschworenen Winde.\nSchön und durchsichtig, Passate und Tornados enstehen in seinem Namen. Die Winde sind seine Kameraden, seine Stimme und seine Freiheit. Seine zahlreichen Feinde sind alle, die sich gegen den Wind stellen.",
+      "bossName": "Sturmschrecken"
     },
     {
       "key": "Tusk of Monoceros Caeli",
-      "name": "Tusk of Monoceros Caeli",
-      "description": "The horn of a whale that you obtained from defeating Childe, who had unleashed the might of his Delusion.\nIt is said that the shape of one's constellation determines one's character. The image of a whale cruising across the celestial heights represents a solipsism that seeks to crush and devour all in its path.\nEmbracing this aspect of himself, Childe gleefully summoned one such beast before throwing himself into battle against you.",
-      "bossName": "Tartaglia"
+      "name": "Hauer des Monoceros Caeli",
+      "description": "Das Walhorn, das du nach dem Sieg über den Grafen mit der Kraft des Teuflischen Auges errungen hast.\nMan sagt, dass die Form des Sternbildes den Charakter eines Menschen bestimmt. Das Bild eines Wals, der über die himmlischen Höhen kreuzt, der versucht, alles auf seinem Weg zu zermalmen und zu verschlingen.\nWährend eures Kampfes hat er fröhlich eine solche Bestie herbeigerufen, um dich anzugreifen.",
+      "bossName": "Der Graf"
     },
     {
       "key": "Shard of a Foul Legacy",
       "name": "Shard of a Foul Legacy",
       "description": "The shard of a weapon that you obtained from defeating Childe, who had unleashed the might of his Delusion.\nIt is stained with a profound color that is not of this world, no doubt due to the land of endless darkness that the young boy saw with his own two eyes.\nPerhaps it has nothing to do with the power of a Delusion, but as they say, the weapon reflects its user...",
-      "bossName": "Tartaglia"
+      "bossName": "Der Graf"
     },
     {
       "key": "Shadow of the Warrior",
       "name": "Shadow of the Warrior",
       "description": "A fragment of power that you obtained from defeating Childe, who had unleashed the might of his Delusion.\nIt is the product of a will to fight that has been honed over countless slaughters.\nIf humans do indeed have destinies, then his must surely have been twisted by such deeds. Why else, then, would he always be at the heart of every conflict?",
-      "bossName": "Tartaglia"
+      "bossName": "Der Graf"
     },
     {
       "key": "DecarabianA",
@@ -5737,37 +5737,37 @@
     {
       "key": "Mora",
       "name": "Mora",
-      "description": "Common currency. The one language everybody speaks."
+      "description": "Überall in der Welt verwendetes Geld und damit die Sprache, die jeder unabhängig von seiner Herkunft spricht."
     },
     {
       "key": "BasaltPillar",
-      "name": "Basalt Pillar",
-      "description": "A pillar formed by the shell of a Geo Hypostasis, composed of high-density Geo energy.\nIt is a testament to Geo's status as the heaviest of the elements. Maybe the reason a Geo Hypostasis creates this pillar out of its shell and raises itself is just to get closer to the sky, not to combat enemies."
+      "name": "Steinturm",
+      "description": "Eine Steinsäule aus der Schale einer Geo-Hypostase. Sie besteht aus stark konzentrierter Geo-Kraft.\nDie Geo-Kraft bildet die schwersten Objekte überhaupt. Geo-Hypostasen erschaffen diese Steinsäule umn weiter nach oben zu gelangen. Möglicherweise ist das nicht allein auf Gegner gerichtet, sondern dient auch dazu, dem unerreichbaren Himmel ein Stück näher zu sein."
     },
     {
       "key": "CleansingHeart",
-      "name": "Cleansing Heart",
-      "description": "A palmful of eternal water left by an oceanid.\nThough it has already diffused among the depths of the lake, its purity remains all the same. But why would a creature so pure and clean as an oceanid covet the appearance of a being that roams the land, and assume such a form with pure water? They need not breathe nor do they require sustenance..."
+      "name": "Reinigendes Herz",
+      "description": "Eine Handvoll reines, durchsichtiges Wasser, das von einer Okeanide zurückgelassen wurde.\nObwohl es sich mit dem Wasser des Sees vermischt hat, wird es seine Reinheit nie verlieren. Warum aber sollten so reine Wesen wie Okeaniden die Form eines Wesens auf dem Lande mit Wasser nachahmen wollen, wo sie doch weder essen noch atmen müssen?"
     },
     {
       "key": "EverflameSeed",
-      "name": "Everflame Seed",
-      "description": "A seed that fuels the unending flames of the Pyro Regisvine. It emits Pyro energy as if it will burn all that has ever sprouted from the ground.Endless desires flow among turbulent energy deep within the earth. What desire could steadily hold such fire to the plants and long so eagerly to bathe everything in unquenchable flames?"
+      "name": "Fluxfeuersamen",
+      "description": "Ein Samen, der Fluxfeuerbäume zum brennen bringt. Er versprüht gleißende Pyro-Energie, als wollte er alles verbrennen, was auf dieser Welt grünt.\nIn nicht ruhen wollender Energie tief in der Erde steckt unendliche Sehnsucht. Doch wonach sehnt sich das ewige feuer? Dürstet es danach, alles mit seinen unstillbaren Flammen zu reinigen?"
     },
     {
       "key": "HoarfrostCore",
-      "name": "Hoarfrost Core",
-      "description": "The exposed core of a defeated Cryo Regisvine. Pure Cryo energy is contained within it.\nEnergy and thoughts that swell deep within the earth will eventually erupt on the surface. Even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge, vicious predators."
+      "name": "Fluxeiskern",
+      "description": "Der entblößte Kern eines besiegten Fluxeisbaums. Darin befindet sich reine Kryo-Kraft.\nDie tief in der Erde brodelnde Energie und die darin verborgenen Gedanken sprudeln letztendlich hervor. Selbst der Frost in trauriger Einsamkeit nimmt an der Oberfläche Form an. So werden gar Ranken, die eigentlich keine Lebewesen fangen sollten, zu großen und furchteinflößenden Kreaturen."
     },
     {
       "key": "HurricaneSeed",
-      "name": "Hurricane Seed",
-      "description": "The imploded form of an Anemo Hypostasis upon its defeat.Contains the essence of Anemo energy.\nIt is said that the power to create hurricanes resides within its seemingly fragile body. This butterfly of pure Anemo energy must surely be waiting for the day when it can conjure up storms once again."
+      "name": "Orkansamen",
+      "description": "Die konzentrierte Form eine Anemo-Hypostase, nachdem sie besiegt worden ist. In ihr steckt pure Anemo-Kraft.\nMan sagt, dass der Flügelschlag eines Schmetterlings die Kraft birgt, einen ganzen Orkan auszulösen. Dieser Schmetterling, der aus reiner Anemo-Kraft besteht, wartet gewiss auf den Tag, an dem er erneut einen Sturm entfachen kann."
     },
     {
       "key": "LightningPrism",
-      "name": "Lightning Prism",
-      "description": "An Electro Hypostasis channels nearby elemental energy to repair damaged elemental entities. Contains the essence of Electro energy.\nAn ordinary prism separates white light into its component colors; a Lightning Prism, however, channels flowing energy and weaves them into lightning. It will continue to do so even after the Electro Hypostasis has been defeated."
+      "name": "Blitzprisma",
+      "description": "Mit diesem elementaren Stoff konzentriert eine Elektro-Hypostase ihre Energie und heilt ihre Verletzungen. Darin enthalten ist reine Elektro-Kraft.\nEin herkömmliches Prisma kann das Farbspektrum des Lichts auseinandernehmen, während ein Blitzprisma fließende Energie in einen Blitzschlag bündeln kann. Die Elektro-Hypostase mag zwar besiegt sein, die Kraft in diesem Prisma ist aber noch vollständig vorhanden."
     },
     {
       "key": "AgateA",
@@ -5777,342 +5777,342 @@
     {
       "key": "AgateB",
       "name": "Agnidus Agate Fragment",
-      "description": "\"A pilgrimage for a wish; a battle to earn a name...\""
+      "description": "\"Für die Erfüllung des Wunsches, der stärkste zu werden...\""
     },
     {
       "key": "AgateC",
       "name": "Agnidus Agate Chunk",
-      "description": "\"A pilgrimage for a wish; a battle to earn a name...Burnt to cinders for a dream.\""
+      "description": "\"Für die Erfüllung des Wunsches, der stärkste zu werden...\"\n\"Für diesen Wunsch gehe ich durchs Feuer.\""
     },
     {
       "key": "AgateD",
-      "name": "Agnidus Agate Gemstone",
-      "description": "\"A pilgrimage for a wish; a battle to earn a name...Burnt to cinders for a dream.\nIf the intention yet remains, achieved ██'s truth he has.\""
+      "name": "Agnidus-Achat",
+      "description": "\"Für die Erfüllung des Wunsches, der stärkste zu werden...\"\n\"Für diesen Wunsch gehe ich durchs Feuer.\"\n\"Vergesse ich dabei nicht, wovor ich das alles mache, wird es sich für  ██ gelohnt haben.\""
     },
     {
       "key": "DiamondA",
-      "name": "Brilliant Diamond Sliver",
-      "description": "\"Welcome to this world.\""
+      "name": "Brilliantsplitter",
+      "description": "\"Willkommen in dieser Welt!\""
     },
     {
       "key": "DiamondB",
-      "name": "Brilliant Diamond Fragment",
-      "description": "\"Welcome to this world.\""
+      "name": "Brilliantbruchstück",
+      "description": "\"Willkommen in dieser Welt!\""
     },
     {
       "key": "DiamondC",
-      "name": "Brilliant Diamond Chunk",
-      "description": "\"Welcome to this world.\""
+      "name": "Brilliantbrocken",
+      "description": "\"Willkommen in dieser Welt!\""
     },
     {
       "key": "DiamondD",
-      "name": "Brilliant Diamond Gemstone",
-      "description": "\"Welcome to this world.\""
+      "name": "Brilliant",
+      "description": "\"Willkommen in dieser Welt!\""
     },
     {
       "key": "EmeraldA",
-      "name": "Nagadus Emerald Sliver",
+      "name": "Nagadus-Smaragd-Splitter",
       "description": null
     },
     {
       "key": "EmeraldB",
-      "name": "Nagadus Emerald Fragment",
-      "description": "\"In the end, life opened its closed fist...\""
+      "name": "Nagadus-Smaragd-Bruchstück",
+      "description": "Übersetzung vorerst nicht verfügbar"
     },
     {
       "key": "EmeraldC",
-      "name": "Nagadus Emerald Chunk",
-      "description": "\"In the end, life opened its closed fist...\""
+      "name": "Nagadus-Smaragd-Brocken",
+      "description": "Übersetzung vorerst nicht verfügbar"
     },
     {
       "key": "EmeraldD",
-      "name": "Nagadus Emerald Gemstone",
-      "description": "\"In the end, life opened its closed fist...granting freedom of life to all.\""
+      "name": "Nagadus-Smaragd",
+      "description": "Übersetzung vorerst nicht verfügbar"
     },
     {
       "key": "TopazA",
-      "name": "Prithiva Topaz Sliver",
+      "name": "Prithiva-Topas-Splitter",
       "description": null
     },
     {
       "key": "TopazB",
-      "name": "Prithiva Topaz Fragment",
-      "description": "\"The currencies that flow through this land are my flesh and blood.\""
+      "name": "Prithiva-Topas-Bruchstück",
+      "description": "\"Das Geld im gesamten Lande ist Teil meiner Selbst.\""
     },
     {
       "key": "TopazC",
-      "name": "Prithiva Topaz Chunk",
-      "description": "\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\""
+      "name": "Prithiva-Topas-Brocken",
+      "description": "\"Das Geld im gesamten Lande ist Teil meiner Selbst.\"\n\"Damit sichere ich die Errungenschaften, die die Menschen mit ihrem Schweiß und ihrer Weisheit geschaffen haben, für die Zukunft.\""
     },
     {
       "key": "TopazD",
-      "name": "Prithiva Topaz Gemstone",
-      "description": "\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.This is the trust I have placed in them. Betray it, and you taint my blood.\""
+      "name": "Prithiva-Topas",
+      "description": "\"Das Geld im gesamten Lande ist Teil meiner Selbst.\"\n\"Damit sichere ich die Errungenschaften, die die Menschen mit ihrem Schweiß und ihrer Weisheit geschaffen haben, für die Zukunft.\"\n\"Ich zeige damit mein Vertrauen in die Menschheit. Sollte ich sie enttäuschen, würde mein Blut unrein.\""
     },
     {
       "key": "JadeA",
-      "name": "Shivada Jade Sliver",
+      "name": "Shivada-Jade-Splitter",
       "description": null
     },
     {
       "key": "JadeB",
-      "name": "Shivada Jade Fragment",
-      "description": "\"Sorry...\""
+      "name": "Shivada-Jade-Bruchstück",
+      "description": "\"Es tut mir leid...\""
     },
     {
       "key": "JadeC",
-      "name": "Shivada Jade Chunk",
-      "description": "\"Sorry...\"\"...to also have you shoulder the grievances of the world.\""
+      "name": "Shivada-Jade-Brocken",
+      "description": "\"Es tut mir leid…\"\n\" dass ihr den Kummer der ganzen Welt auf den Schultern tragt.\""
     },
     {
       "key": "JadeD",
-      "name": "Shivada Jade Gemstone",
-      "description": "\"Sorry... to also have you shoulder the grievances of the world.\"Since you could endure my bitter cold, you must have the desire to burn?\"Then, burn away the old world for me.\""
+      "name": "Shivada-Jade",
+      "description": "\"Es tut mir leid, dass ihr den Kummer der ganzen Welt auf den Schultern tragt.\"\n\"Euer Herz brennt sicher vor lauter Hoffnung wenn ihr meine Kälte aushaltet.\"\n\"So lasst die alte Welt brennen.\""
     },
     {
       "key": "AmethystA",
-      "name": "Vajrada Amethyst Sliver",
+      "name": "Vajrada-Amethyst-Splitter",
       "description": null
     },
     {
       "key": "AmethystB",
-      "name": "Vajrada Amethyst Fragment",
-      "description": "\"This body is the noblest and most eminent of all in this world.\""
+      "name": "Vajrada-Amethyst-Bruchstück",
+      "description": "\"Dieser Körper ist einzigartig auf dieser Welt.\""
     },
     {
       "key": "AmethystC",
-      "name": "Vajrada Amethyst Chunk",
-      "description": "\"This body is the noblest and most eminent of all in this world.It should hold absolute control over this world.\""
+      "name": "Vajrada-Amethyst-Brocken",
+      "description": "\"Dieser Körper ist einzigartig auf dieser Welt.\"\n\"Er sollte diese Welt beherrschen.\""
     },
     {
       "key": "AmethystD",
-      "name": "Vajrada Amethyst Gemstone",
-      "description": "\"This body is the noblest and most eminent of all in this world.\"It should hold absolute control over this world.\"It once promised its people a dream: the never-changing 'eternity.'\""
+      "name": "Vajrada-Amethyst",
+      "description": "\"Dieser Körper ist einzigartig auf dieser Welt.\"\n\"Er sollte diese Welt beherrschen.\"\n\"Dieser Körper verhieß seinen Untertanen einen Traum, nämlich den Traum von der Ewigkeit über Generationen hinweg.\""
     },
     {
       "key": "LazuriteA",
-      "name": "Varunada Lazurite Sliver",
+      "name": "Varunada-Lasurit-Splitter",
       "description": null
     },
     {
       "key": "LazuriteB",
-      "name": "Varunada Lazurite Fragment",
-      "description": "\"My ideals have no stains.\""
+      "name": "Varunada-Lasurit-Bruchstück",
+      "description": "\"Meine Ideale sind Vollkommen klar.\""
     },
     {
       "key": "LazuriteC",
-      "name": "Varunada Lazurite Chunk",
-      "description": "\"My ideals have no stains.I must correct you. People here bear no sins in the eyes of the gods...\""
+      "name": "Varunada-Lasurit-Brocken",
+      "description": "\"Meine Ideale sind Vollkommen klar.\"\n\".Ich muss dich berichtigen.\"\n\"Die Menschen hier werden nicht von den Göttern gerichtet, sondern vom Gesetz und vom Richter.\""
     },
     {
       "key": "LazuriteD",
-      "name": "Varunada Lazurite Gemstone",
-      "description": "\"My ideals have no stains.I must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.\nThey can judge even me. So praise my magnificence and purity.\""
+      "name": "Varunada-Lasurit",
+      "description": "\"Meine Ideale sind Vollkommen klar\"\n\".Ich muss dich berichtigen. Die Menschen hier werden nicht von den Göttern gerichtet, sondern vom Gesetz und vom Richter.\"\n\"Selbst über mich können sie richten, womöglich um meine Ergebenheit und Reinheit zu lobpreisen.\""
     },
     {
       "key": "TurquoiseA",
-      "name": "Vayuda Turquoise Sliver",
+      "name": "Vayuda-Türkis-Splitter",
       "description": null
     },
     {
       "key": "TurquoiseB",
-      "name": "Vayuda Turquoise Fragment",
-      "description": "\"Still, the winds change direction.\""
+      "name": "Vayuda-Türkis-Bruchstück",
+      "description": "\"Die Windrichtung kann sich jederzeit ändern.\""
     },
     {
       "key": "TurquoiseC",
-      "name": "Vayuda Turquoise Chunk",
-      "description": "\"Still, the winds change direction.Someday, they will blow towards a brighter future...\""
+      "name": "Vayuda-Türkis-Brocken",
+      "description": "\"Die Windrichtung kann sich jederzeit ändern.\"\n\"Eines Tages wird uns der Wind in eine bessere Zukunft tragen.\""
     },
     {
       "key": "TurquoiseD",
-      "name": "Vayuda Turquoise Gemstone",
-      "description": "\"Still, the winds change direction.\"Someday, they will blow towards a brighter future...\"Take my blessings and live leisurely from this day onward.\""
+      "name": "Vayuda-Türkis",
+      "description": "\"Die Windrichtung kann sich jederzeit ändern.\"\n\"Eines Tages wird uns der Wind in eine bessere Zukunft tragen.\"\n\"Von heute an wirst du meinen Segen haben und in vollkommener Freiheit leben.\""
     },
     {
       "key": "CallaLily",
-      "name": "Calla Lily",
-      "description": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter."
+      "name": "Wasserlilie",
+      "description": "Eine Blume, die am Ufer von Gewässern wächst. Ihre Blüten sind zubereitet ein wahres Erlebnis auf der Zunge, leicht süß und bitter."
     },
     {
       "key": "Cecilia",
       "name": "Cecilia",
-      "description": "A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul."
+      "description": "Eine Blume mit einem Namen so schön wie ihr Anblick. Sie wächst nur hoch oben an kalten und windigen Stellen. Sie ist so schwer zu greifen, wie ein flüchtiger Gedanke."
     },
     {
       "key": "CorLapis",
       "name": "Cor Lapis",
-      "description": "A precious crystal of condensed pure Geo element that usually grows along with other minerals. It's also commonly called \"Cor Petrae."
+      "description": "Ein seltener Kristall in dem Geo-Kraft stark konzentriert ist. Er ist häufig in der nähe anderer Gesteine zu finden und wird auch als das \"Herz des Felsens\" bezeichnet."
     },
     {
       "key": "DandelionSeed",
-      "name": "Dandelion Seed",
-      "description": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within."
+      "name": "Löwenzahnsamen",
+      "description": "Viele kleine Samen, die im Wind tanzen. Selbst ohne ihre Flügel zeugen sie von einer weiten Reise."
     },
     {
       "key": "GlazeLily",
-      "name": "Glaze Lily",
-      "description": "An extremely ancient flower that was said to be commonly seen in Liyue. It transforms the memories of the land into its fragrance during florescence."
+      "name": "Glaslilie",
+      "description": "Eine uralte Pflanze, die einst ganz Liyue bedeckt haben soll. Sie sammelt die Erinnerungen des Landes und gibt sie in Form von süßem Duft ab, sobald sie blüht."
     },
     {
       "key": "JueyunChili",
-      "name": "Jueyun Chili",
-      "description": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty."
+      "name": "Jueyun-Peperoni",
+      "description": "Eine scharf schmeckende Pflanze aus dem Gebiet von Liyue. Schon wenn man an ihr riecht, wird einem heiß und man bekommt Durst."
     },
     {
       "key": "NoctilousJade",
-      "name": "Noctilucous Jade",
-      "description": "A rare mineral that glimmers in the dark. It's said to be a mutated gemstone condensed from the flourishing elements of the world."
+      "name": "Nachtjade",
+      "description": "Ein äußerst seltenes Gestein, das in der Dunkelheit stiller Nächte leuchtet. Man hält es für das edle Produkt kristallisierter Elemente,die an die Oberfläche treten."
     },
     {
       "key": "PhilanemoMushroom",
-      "name": "Philanemo Mushroom",
-      "description": "A fungus that grows in the warm caress of the wind. It is as everlasting as the wind, nourishing life."
+      "name": "Philanemo-Pilz",
+      "description": "Ein Pilz, der in Gebieten mit warmen Wind gedeiht. Er ist beständig wie der Wind und strotzt nur so vor Lebenskraft."
     },
     {
       "key": "Qingxin",
       "name": "Qingxin",
-      "description": "A crimson flower that blooms like the rainbow clouds in Liyue. It can be made into silky-smooth fabric."
+      "description": "Eine Blume mit weißen, fast durchsichtigen Blüten, die nur auf hohen Gipfeln wächst. Sie kann nichts mit der Wärme und Feuchtigkeit der tieferen Ebenen anfangen und zieht es vor, auf den eisigen Gipfeln der Berge in die Ferne zu schauen."
     },
     {
       "key": "SilkFlower",
-      "name": "Silk Flower",
-      "description": "A crimson flower that blooms like the rainbow clouds in Liyue. It can be made into silky-smooth fabric."
+      "name": "Seidenblume",
+      "description": "Eine tiefrote Blume wie aus den Regenbogenwolken über Liyue. Man kann aus ihr besonders weiche und glatte Stoffe herstellen"
     },
     {
       "key": "SmallLampGrass",
-      "name": "Small Lamp Grass",
-      "description": "A wild grass that emits light at night. Used in cooking to enhance other flavors."
+      "name": "Lampenkraut",
+      "description": "Eine nachts leuchtende Wildblume die den Geschmack von Gerichten angenehm intensiviert."
     },
     {
       "key": "Starconch",
-      "name": "Starconch",
-      "description": "Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea."
+      "name": "Sternmuschel",
+      "description": "Eine Muschel, die die Flut an den Strand gespült hat. Hält man sie ans Ohr, hört man das verheißungsvolle Rauschen des Meeres."
     },
     {
-      "key": "Valberry",
+      "key": "Valbeere",
       "name": "Valberry",
-      "description": "A plump and translucent berry that has a fragrant smell and a sweet refreshing taste. In the past, the watchers of the storms found solace in the sweetness of the fruit and the hope for the city's security."
+      "description": "Eine plumpe und durchsichtige Beere, die im Mund einen süßen Geschmack entfaltet. Die Wächter, die früher nach dem Sturm ausschau hielten, fanden Trost in der Valbeere sowie Hoffnung auf Ruhe in der Stadt."
     },
     {
       "key": "Violetgrass",
-      "name": "Violetgrass",
-      "description": "A small flower with strong vitality. It was said its downward-blooming flower keeps its fragrance from dissipating."
+      "name": "Glasglöckchen",
+      "description": "Eine kleine Blume mit großer Lebenskraft. Sie neigt ihre Blüte angeblich nach unten, damit ihr Duft nicht so schnell vergeht."
     },
     {
       "key": "WindwheelAster",
-      "name": "Windwheel Aster",
-      "description": "A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are \"the visible winds."
+      "name": "Windmühlenaster",
+      "description": "Eine Pflanze, die den Wind liebt. Für die Freiheit schätzenden Menschen von Mondstadt, die den Wind verehren sind Windmühlenastern wie der Wind, den man anfassen kann"
     },
     {
       "key": "Wolfhook",
-      "name": "Wolfhook",
-      "description": "A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods."
+      "name": "Wolfshaken",
+      "description": "Eine stachelige Beere, die am Fell von wölfen hängenbleibt und von innen weitergetragen wird. Sieht man diese Beeren, kann man sich darauf gefasst machen, das Echo von Wolfsgeheul zu hören."
     },
     {
       "key": "EnhancementOreA",
-      "name": "Enhancement Ore",
-      "description": "Gives 400 EXP.\nA refined ingot with endless possibilities that can be used to enhance weapons."
+      "name": "Minderwertiges Verstärkungserz",
+      "description": "Material für Waffen-EP, enthält 400 Waffen-EP.\nErz mit unvorstellbaren Möglichkeiten, das zum Verstärken der Waffen verwendet wird."
     },
     {
       "key": "EnhancementOreB",
-      "name": "Fine Enhancement Ore",
-      "description": "Gives 2,000 EXP.\nFor reasons unknown, this special and refined ore can be absorbed by weapons to greatly increase their strengths."
+      "name": "Hochwertiges Verstärkungserz",
+      "description": "Material für Waffen-EP, enthält 2000 Waffen-EP.\nAufgrund der physischen Eigenschaften dieses Stoffes können Waffen damit besonders gut verstärkt werden."
     },
     {
       "key": "EnhancementOreC",
-      "name": "Mystic Enhancement Ore",
-      "description": "Gives 10,000 EXP.\nLegend has it that this refined ingot contains the memories of battles that had taken place in the land. The weapons that benefit from these memories naturally become sentient."
+      "name": "Mystisches Verstärkungserz",
+      "description": "Material für Waffen-EP, enthält 10.000 Waffen-EP.\nIn diesem Erz sollen die Erinnerungen an unzählige Kämpfe auf der es bedeckenden Erde liegen. Waffen, die mit diesem Erz bedeckt werden, sollen auch lebendiger wirken."
     },
     {
       "key": "CharExpA",
-      "name": "Wanderer's Advice",
-      "description": "Gives 1000 EXP.\nThese experiences are still beneficial even if one does not live in Teyvat."
+      "name": "Eines Streuners Gedanken",
+      "description": "Material für Figuren-EP, enthält 1000 EP.\nWenn man nicht gerade aus einer der sieben Städte des Landes kommt, kann man diese Erfahrung gut gebrauchen."
     },
     {
       "key": "CharExpB",
-      "name": "Adventurer's Experience",
-      "description": "Gives 5000 EXP.\nThese experiences are very beneficial for journeys into the unknown."
+      "name": "Eines Abenteurers Worte",
+      "description": "Material für Figuren-EP, enthält 5000 EP.\nBetritt man gegenden,die noch nie ein Mensch zuvor gesehen hat, kann man diese Erfahrung sehr gut gebrauchen."
     },
     {
       "key": "CharExpC",
-      "name": "Hero's Wit",
-      "description": "Gives 20000 EXP.\nThese experiences are extremely precious for a pilgrim traveling through Teyvat in order to be closer to Celestia."
+      "name": "Eines Helden Weisheit",
+      "description": "Material für Figuren-EP, enthält 20.000 EP.\nWenn man auf dem Weg nach Celestia ist und sich ein Weilchen in diesen Landen aufhält, ist diese Erfahrung eine äußerst große Hilfe."
     },
     {
       "key": "JuvenileJade",
-      "name": "Juvenile Jade",
-      "description": "A crystalline substance taken from a Primo Geovishap. Within it is contained the potential to become a dragon.\nThese dull crystals are precipitated within the bodies of vishaps sleeping in the mountains. Liyue folklore holds that they will gather power over many years, after which this crystal will, at last, replace their original heart, and the vishap will become a true dragon — one that can shake the mountains and split the earth."
+      "name": "Junge Jade",
+      "description": "Eine kristalline Substanz, erhalten von einer alten Geo-Drachenechse. Ihr wohnt das Potential inne, ein Drache zu werden.\nDer stumpfe Kristall entsteht in den Körpern von Drachenechsen, die in den Bergen schlafen. Der Volksglaube in Liyue besagt, dass der Kristall über die Jahre immer stärker wird und schließlich das Herz einer Drachenechse ersetzt. Wenn dieser Punkt erreicht ist, wird die Drachenechse zu einem wahren Drachen."
     },
     {
       "key": "Starsilver",
-      "name": "Starsilver",
-      "description": "A rare and precious ore formed by the unique geographical conditions and Ley Lines of Dragonspine."
+      "name": "Sternsilbererz",
+      "description": "Ein seltenes und wertvolles Erz, das durch die einzigartigen geografischen Bedingungen und den FLuss der Elemente am Drachengrat gebildet wurde."
     },
     {
       "key": "Vitalized Dragontooth",
-      "name": "Vitalized Dragontooth",
-      "description": "A Dragontooth infused with vitality. Just its luster and texture are enough to make one uneasy..."
+      "name": "Lebensenergie saugender Drachenzahn",
+      "description": "EIn von Vitalität durchdrungener Drachenzahn. Allein sein Glanz und seine Ausstrahlung genügen, um einen ganz unruhig zu machen..."
     },
     {
       "key": "Iron Chunk",
-      "name": "Iron Chunk",
-      "description": "This iron chunk can be turned into a multitude of handy items in the hands of a skilled craftsman."
+      "name": "Brocken Eisen",
+      "description": "Ein Klumpen Eisenerz, der in den Händen eines begabten Schmieds zu einer ganzen Reihe an nützlichen Gegenständen werden kann."
     },
     {
       "key": "White Iron Chunk",
-      "name": "White Iron Chunk",
-      "description": "Skilled hands can make this into something brilliant."
+      "name": "Brocken weißes Eisen",
+      "description": "Ein Klumpen weißes Eisenerz, der in den Händen eines begabten Schmieds zu glanzvollen Dingen reifen kann."
     },
     {
       "key": "Crystal Chunk",
-      "name": "Crystal Chunk",
-      "description": "An uncut crystal. Only professional craftsmanship can bring out its true value."
+      "name": "Brocken Kristall",
+      "description": "Ein ungeschliffener Kristall, der erst nach Bearbeitung durch qualifizierte Handwerker seinen wahren Wert zeigt."
     },
     {
       "key": "Northlander Bow Billet",
-      "name": "Northlander Bow Billet",
-      "description": "Can be used to forge 4-star bows. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater."
+      "name": "Unbearbeiteter Bogen des Nordens",
+      "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Bogen geschmiedet werden. In der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?."
     },
     {
       "key": "Northlander Catalyst Billet",
-      "name": "Northlander Catalyst Billet",
-      "description": "Can be used to forge 4-star catalysts. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater."
+      "name": "Unbearbeiteter Katalysator des Nordens",
+      "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Katalysator geschmiedet werden. In der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?."
     },
     {
       "key": "Northlander Claymore Billet",
-      "name": "Northlander Claymore Billet",
-      "description": "Can be used to forge 4-star claymores. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater."
+      "name": "Unbearbeiteter Zweihänder des Nordens",
+      "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Zweihänder geschmiedet werden. In der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?."
     },
     {
       "key": "Northlander Polearm Billet",
-      "name": "Northlander Polearm Billet",
-      "description": "Can be used to forge 4-star polearms. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater."
+      "name": "Unbearbeitete Stangenwaffe des Nordens",
+      "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einer 4-Sterne-Stangenwaffe geschmiedet werden. In der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?."
     },
     {
       "key": "Northlander Sword Billet",
-      "name": "Northlander Sword Billet",
-      "description": "Can be used to forge 4-star swords. Philosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater."
+      "name": "Unbearbeiteter Einhänder des Nordens",
+      "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Einhänder geschmiedet werden. In der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?"
     },
     {
       "key": "Dust of Azoth",
-      "name": "Dust of Azoth",
-      "description": "A device that can transmute elemental Ascension Materials and change their Elemental Type.Its practical uses notwithstanding, alchemy is the study of the nature of matter and the rules that underpin its transformations, and ultimately it seeks to comprehend the working principles of the world and the flow of the ley lines\nIt is not known who would share alchemical achievements of this magnitude with the civilizations of the world and why. But although the power to fundamentally transmute elemental energy in its crystallized and inert form is a highly useful one, this device also conceals the grave danger of disrupting the elemental balance..."
+      "name": "Staub von Azoth",
+      "description": "Eine Substanz, die Ekementaufstiegsmaterial umwandeln und ihre Elementattribute verändern kann. Abgesehen von ihrem praktischen Nutzen ist die Alchemie die Lehre der Natur der Materie und der Regeln, die ihren Veränderungen zugrunde liegen und sie zeigt die Gesetze auf, welche die Zyklen der Welt und die Bewegung des Flusses der Elemente bestimmen.\nIrgendjemand hat diese große alchemistische Errungenschaft aus unbekannten Gründen im ganzen Land verteilt. Doch auch wenn sie sehr praktisch und nützlich ist, darf nicht vergessen werden, dass sie auch die Macht birgt, das Gleichgewicht der Dinge zu zerstören..."
     },
     {
       "key": "Magical Crystal Chunk",
-      "name": "Magical Crystal Chunk",
-      "description": "These crystal chunks can be refined into Weapon EXP materials by using Original Resin.\nCrystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means."
+      "name": "Brocken magisches Kristall",
+      "description": "Kann beim Schmieden mithilfe von ursprünglichem Harz zu Waffen-EP-Material verarbeitet werden.\nDiese von elementarer Energie durchdrungenen Kristalle können nicht mit gewöhnlichen Mitteln bearbeitet werden."
     },
     {
       "key": "Original Resin",
-      "name": "Original Resin",
-      "description": "Used to vitalize Petrified Trees and Ley Line Blossoms, allowing access to the treasures they hold. Energy regenerates over time.\nIt is said that the roots of all the Irminsul trees and blossoms in the world are intertwined at the deepest, most hidden place in the earth, and that the pattern the root system makes defines the Ley Lines of the world."
+      "name": "Ursprüngliches Harz",
+      "description": "Kann den versteinerten Baum und die Blüte des Flusses der Elemente aktivieren, wodurch du an geheime Schätze kommst. Die darin enthaltene Energie stellt sich mit der Zeit wieder her.\nDen Legenden zufolge breitet sich das Wurzelsystem Irminsuls und dieser alten Blume weit über die Lande aus und bildet den Grundstock für den Fluss der Elemente."
     },
     {
       "key": "Primogem",
-      "name": "Primogem",
-      "description": "A primordial crystalline gem that's beyond the mundane world. Shines with the condensed hopes and dreams of universes that once were."
+      "name": "Urgestein",
+      "description": "Ein urzeitliches Mineral, das dem finsteren Universum einen Glanz, gemacht aus Träumen und Hoffnung gibt."
     },
     {
       "key": "Crystalline Bloom",
@@ -6153,23 +6153,23 @@
   "debuffs": [
     {
       "key": "Engulfing Storm",
-      "name": "Engulfing Storm",
-      "effect": "Continuously drains Energy Recharge."
+      "name": "Hungriger Blitz",
+      "effect": "verbraucht die Elementarenergie."
     },
     {
       "key": "Slowing Water",
-      "name": "Slowing Water",
-      "effect": "Increases skill CD durations."
+      "name": "Zähflüssige Bremse",
+      "effect": "Verlängert die Abklingzeit von Fägifkeiten."
     },
     {
       "key": "Smoldering Flames",
-      "name": "Smoldering Flames",
-      "effect": "Continuously inflicts damage over time."
+      "name": "Schwelbrand",
+      "effect": "Fortlaufend Pyro-Schaden."
     },
     {
       "key": "Condensed Ice",
-      "name": "Condensed Ice",
-      "effect": "Increases stamina consumption."
+      "name": "Erstarrte Glieder",
+      "effect": "verbraucht mehr Ausdauer."
     }
   ],
   "reactions": [
@@ -6180,95 +6180,95 @@
     },
     {
       "key": "Crystalize",
-      "name": "Crystalize",
-      "effect": "Creates a crystal that will provide a shield when picked up."
+      "name": "Kristallisation",
+      "effect": "Erzeugt einen Elementar-Kristall, der dir Widerstand gegen das jeweilige Element gibt."
     },
     {
       "key": "Electro-Charged",
-      "name": "Electro-Charged",
-      "effect": "Deals Electro DMG over time."
+      "name": "Unter Strom",
+      "effect": "Elektroschaden über Zeit."
     },
     {
       "key": "Frozen",
-      "name": "Frozen",
-      "effect": "Freezes the target."
+      "name": "Erforern",
+      "effect": "Vereist den Gegner."
     },
     {
       "key": "Melt",
-      "name": "Melt",
-      "effect": "Deals extra damage."
+      "name": "Schmelzen",
+      "effect": "Verteilt extra Schaden."
     },
     {
       "key": "Overloaded",
-      "name": "Overloaded",
-      "effect": "Deals AoE Pyro DMG."
+      "name": "Überladen",
+      "effect": "Gebietseffekt mit Feuerschaden."
     },
     {
       "key": "Superconduct",
-      "name": "Superconduct",
-      "effect": "Deals AoE Cryo DMG and reduces the target's Physical RES by 50%."
+      "name": "Supraleiter",
+      "effect": "Gebietseffekt mit Eisschaden & Reduzierung der Verteidigung."
     },
     {
       "key": "Swirl",
-      "name": "Swirl",
-      "effect": "Deals extra elemental damage and spreads the effect."
+      "name": "Verwirbelung",
+      "effect": "Zusätzlicher Elementarschaden & Verbreitet den Elementarstatus auf Feinde in der Nähe."
     },
     {
       "key": "Vaporize",
-      "name": "Vaporize",
-      "effect": "Deals extra damage."
+      "name": "Verdampfen",
+      "effect": "Verteilt extra Schaden."
     }
   ],
   "resonance": [
     {
       "key": "Enduring Rock",
-      "name": "Enduring Rock",
-      "effect": "Increases shield strength by 15%. Aditionally, characters protected by a shield will have the following special characterists: DMG dealt increased by 15%, dealing DMG to enemeies will decrease their Geo RES by 20% for 15s."
+      "name": "Beständiges Gestein",
+      "effect": "Erhöht die Schildeffizienz um 15 % und verleiht Figuren im Schutz von Schilden folgende Merkmale: Erhöht den verursachten Schaden um 15 % und verringert den GEO-WDS von Gegnern, denen die Figuren Schaden zufügen, um 20 %. Hält 15 s."
     },
     {
       "key": "Fervent Flames",
-      "name": "Fervent Flames",
-      "effect": "Affected by Cryo for 40% less time. Increases ATK by 25%."
+      "name": "Aufrichtiges Feuer",
+      "effect": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kyro-Attribut um 40 % und erhöht den ANG um 25 %."
     },
     {
       "key": "Soothing Waters",
-      "name": "Soothing Waters",
-      "effect": "Affected by Pyro for 40% less time. Increases incoming healing by 30%."
+      "name": "Heilendes Wasser",
+      "effect": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 % und erhöht den passiven Heilungseffekt um 30 %."
     },
     {
       "key": "Impetuous Winds",
-      "name": "Impetuous Winds",
-      "effect": "Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%."
+      "name": "Ungestümer Wind",
+      "effect": "Verringert den Ausdauerverbrauch um 15 %, erhöht die Bewegungsgeschwindigkeit um 10 % und verkürzt die Abklingzeit um 5 %."
     },
     {
       "key": "High Voltage",
-      "name": "High Voltage",
-      "effect": "Affected by Hydro for 40% less time. Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle (CD: 5s)."
+      "name": "Energiereicher Blitz",
+      "effect": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 % und erschafft beim Auslösen der Reaktionen Superleiter, Überladen und Unter Strom mit einer Wahrscheinlichkeit von 100 % ein Elektro-Elementarteilchen. 5 s Abklingzeit.."
     },
     {
       "key": "Shattering Ice",
-      "name": "Shattering Ice",
-      "effect": "Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%."
+      "name": "Zerspringendes Eis",
+      "effect": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 % und erhöht die KT bei Angriffen auf von Kyro-Effekten oder Gefroren betroffenen gegner um 15 %."
     },
     {
       "key": "Protective Canopy",
-      "name": "Protective Canopy",
-      "effect": "All Elemental RES by 15%. Physical RES + 15%",
-      "description": "Any 4 Unique Elements"
+      "name": "Verwobene Wehr",
+      "effect": "Erhöht den WDS aller Elemente um 15 % und den Phys. WDS um 15 %",
+      "description": "4 unterschiedliche Elemente"
     }
   ],
   "monsters": [
     {
       "key": "Abyss Herald: Wicked Torrents",
-      "name": "Abyss Herald: Wicked Torrents"
+      "name": "Abgrundbote: Reißender Sturm"
     },
     {
       "key": "Abyss Lector: Violet Lightning",
-      "name": "Abyss Lector: Violet Lightning"
+      "name": "Abgrundsänger - Lila Blitze"
     },
     {
       "key": "Anemo Hypostasis",
-      "name": "Anemo Hypostasis"
+      "name": "Anemo Hypostase"
     },
     {
       "key": "Anemo Samachurl",
@@ -6276,7 +6276,7 @@
     },
     {
       "key": "Anemo Slime",
-      "name": "Anemo Slime"
+      "name": "Anemo Schleim"
     },
     {
       "key": "Azhdaha",
@@ -6284,47 +6284,47 @@
     },
     {
       "key": "Blazing Axe Mitachurl",
-      "name": "Blazing Axe Mitachurl"
+      "name": "Mitachurl mit Feueraxt"
     },
     {
       "key": "Childe",
-      "name": "Childe"
+      "name": "Der Graf"
     },
     {
       "key": "Cryo Abyss Mage",
-      "name": "Cryo Abyss Mage"
+      "name": "Kryo Abgrundmagier"
     },
     {
       "key": "Cryo Cicin",
-      "name": "Cryo Cicin"
+      "name": "Kryo Cicin"
     },
     {
       "key": "Cryo Hilichurl Grenadier",
-      "name": "Cryo Hilichurl Grenadier"
+      "name": "Kryo Hilichurl Grenadier"
     },
     {
       "key": "Cryo Hilichurl Shooter",
-      "name": "Cryo Hilichurl Shooter"
+      "name": "Kryo Hilichurl Schütze"
     },
     {
       "key": "Cryo Hypostasis",
-      "name": "Cryo Hypostasis"
+      "name": "Kryo Hypostase"
     },
     {
       "key": "Cryo Regisvine",
-      "name": "Cryo Regisvine"
+      "name": "Fluxeisbaum"
     },
     {
       "key": "Cryo Samachurl",
-      "name": "Cryo Samachurl"
+      "name": "Kryo Samachurl"
     },
     {
       "key": "Cryo Slime",
-      "name": "Cryo Slime"
+      "name": "Kryo Schleim"
     },
     {
       "key": "Cryo Whopperflower",
-      "name": "Cryo Whopperflower"
+      "name": "Gigantische Kryo Vaniloqua"
     },
     {
       "key": "Dendro Samachurl",
@@ -6332,63 +6332,63 @@
     },
     {
       "key": "Dendro Slime",
-      "name": "Dendro Slime"
+      "name": "Dendro Schleim"
     },
     {
       "key": "Electro Cicin",
-      "name": "Electro Cicin"
+      "name": "Elektro Cicin"
     },
     {
       "key": "Electro Hilichurl Shooter",
-      "name": "Electro Hilichurl Shooter"
+      "name": "Elektro Hilichurl Schütze"
     },
     {
       "key": "Electro Hypostasis",
-      "name": "Electro Hypostasis"
+      "name": "Elektro Hypostase"
     },
     {
       "key": "Electro Slime",
-      "name": "Electro Slime"
+      "name": "Electro Schleim"
     },
     {
       "key": "Eye of the Storm",
-      "name": "Eye of the Storm"
+      "name": "Auge des Sturms"
     },
     {
       "key": "Fatui Cryo Cicin Mage",
-      "name": "Fatui Cryo Cicin Mage"
+      "name": "Fatui Kryo Cicin Zauberin"
     },
     {
       "key": "Fatui Electro Cicin Mage",
-      "name": "Fatui Electro Cicin Mage"
+      "name": "Fatui Elektro Cicin Zauberin"
     },
     {
       "key": "Fatui Pyro Agent",
-      "name": "Fatui Pyro Agent"
+      "name": "Fatui Pyro Schuldeneintreiber"
     },
     {
       "key": "Fatui Skirmisher - Anemoboxer Vanguard",
-      "name": "Fatui Skirmisher - Anemoboxer Vanguard"
+      "name": "Fatui Plänkler - Anemo-Faust-Stürmer"
     },
     {
       "key": "Fatui Skirmisher - Cryogunner Legionnaire",
-      "name": "Fatui Skirmisher - Cryogunner Legionnaire"
+      "name": "Fatui Plänkler - Kryo-Kanonen-Gardist"
     },
     {
       "key": "Fatui Skirmisher - Electrohammer Vanguard",
-      "name": "Fatui Skirmisher - Electrohammer Vanguard"
+      "name": "Fatui Plänkler - Elektro-Hammer-Stürmer"
     },
     {
       "key": "Fatui Skirmisher - Geochanter Bracer",
-      "name": "Fatui Skirmisher - Geochanter Bracer"
+      "name": "Fatui Plänkler - Geo-Boten-Freischärler"
     },
     {
       "key": "Fatui Skirmisher - Hydrogunner Legionnaire",
-      "name": "Fatui Skirmisher - Hydrogunner Legionnaire"
+      "name": "Fatui Plänkler - Hydro-Kanonen-Gardist"
     },
     {
       "key": "Fatui Skirmisher - Pyroslinger Bracer",
-      "name": "Fatui Skirmisher - Pyroslinger Bracer"
+      "name": "Fatui Plänkler - Pyro-Kanonen-Freischärler"
     },
     {
       "key": "Frostarm Lawachurl",
@@ -6396,7 +6396,7 @@
     },
     {
       "key": "Geo Hypostasis",
-      "name": "Geo Hypostasis"
+      "name": "Geo Hypostase"
     },
     {
       "key": "Geo Samachurl",
@@ -6404,15 +6404,15 @@
     },
     {
       "key": "Geo Slime",
-      "name": "Geo Slime"
+      "name": "Geo Schleim"
     },
     {
       "key": "Geovishap",
-      "name": "Geovishap"
+      "name": "Geo-Drachenechse"
     },
     {
       "key": "Geovishap Hatchling",
-      "name": "Geovishap Hatchling"
+      "name": "Junge Geo-Drachenechse"
     },
     {
       "key": "Hilichurl",
@@ -6424,7 +6424,7 @@
     },
     {
       "key": "Hilichurl Fighter",
-      "name": "Hilichurl Fighter"
+      "name": "Hilichurl Kämpfer"
     },
     {
       "key": "Hilichurl Grenadier",
@@ -6432,11 +6432,11 @@
     },
     {
       "key": "Hilichurl Shooter",
-      "name": "Hilichurl Shooter"
+      "name": "Hilichurl Schütze"
     },
     {
       "key": "Hydro Abyss Mage",
-      "name": "Hydro Abyss Mage"
+      "name": "Hydro Abgrundmagier"
     },
     {
       "key": "Hydro Cicin",
@@ -6448,187 +6448,187 @@
     },
     {
       "key": "Hydro Slime",
-      "name": "Hydro Slime"
+      "name": "Hydro Schleim"
     },
     {
       "key": "Ice Shield Hilichurl Guard",
-      "name": "Ice Shield Hilichurl Guard"
+      "name": "Hilichurl mit Eisschild"
     },
     {
       "key": "Ice Shieldwall Mitachurl",
-      "name": "Ice Shieldwall Mitachurl"
+      "name": "Mitachurl mit Eisschild"
     },
     {
       "key": "Large Anemo Slime",
-      "name": "Large Anemo Slime"
+      "name": "Großer Anemo Schleim"
     },
     {
       "key": "Large Cryo Slime",
-      "name": "Large Cryo Slime"
+      "name": "Großer Kryo Schleim"
     },
     {
       "key": "Large Dendro Slime",
-      "name": "Large Dendro Slime"
+      "name": "Großer Dendro Schleim"
     },
     {
       "key": "Large Electro Slime",
-      "name": "Large Electro Slime"
+      "name": "Großer Elektro Schleim"
     },
     {
       "key": "Large Geo Slime",
-      "name": "Large Geo Slime"
+      "name": "Großer Geo Schleim"
     },
     {
       "key": "Large Hydro Slime",
-      "name": "Large Hydro Slime"
+      "name": "Großer Hydro Schleim"
     },
     {
       "key": "Large Pyro Slime",
-      "name": "Large Pyro Slime"
+      "name": "Großer Pyro Schleim"
     },
     {
       "key": "Lupus Boreas, Dominator of Wolves",
-      "name": "Lupus Boreas, Dominator of Wolves"
+      "name": "Großer Wolfskönig des Nordens, Herr von Wolfenlauf"
     },
     {
       "key": "Millelith Sergeant",
-      "name": "Millelith Sergeant"
+      "name": "Millelithenausbilder"
     },
     {
       "key": "Millelith Soldier",
-      "name": "Millelith Soldier"
+      "name": "Millelithensoldat"
     },
     {
       "key": "Mutant Electro Slime",
-      "name": "Mutant Electro Slime"
+      "name": "Mutierter Elektro Schleim"
     },
     {
       "key": "Oceanid",
-      "name": "Oceanid"
+      "name": "Okeanide"
     },
     {
       "key": "Primo Geovishap",
-      "name": "Primo Geovishap"
+      "name": "Alte Geo-Drachenechse"
     },
     {
       "key": "Pyro Abyss Mage",
-      "name": "Pyro Abyss Mage"
+      "name": "Pyro Abgrundmagier"
     },
     {
       "key": "Pyro Hilichurl Shooter",
-      "name": "Pyro Hilichurl Shooter"
+      "name": "Pyro Hilichurl Schütze"
     },
     {
       "key": "Pyro Regisvine",
-      "name": "Pyro Regisvine"
+      "name": "Fluxfeuerbaum"
     },
     {
       "key": "Pyro Slime",
-      "name": "Pyro Slime"
+      "name": "Pyro Schleim"
     },
     {
       "key": "Pyro Whopperflower",
-      "name": "Pyro Whopperflower"
+      "name": "Gigantische Pyro Vaniloqua"
     },
     {
       "key": "Rock Shield Hilichurl Guard",
-      "name": "Rock Shield Hilichurl Guard"
+      "name": "Hilichurl mit Steinschild"
     },
     {
       "key": "Rock Shieldwall Mitachurl",
-      "name": "Rock Shieldwall Mitachurl"
+      "name": "Mitachurl mit Steinschild"
     },
     {
       "key": "Ruin Grader",
-      "name": "Ruin Grader"
+      "name": "Ruinenkoloss"
     },
     {
       "key": "Ruin Guard",
-      "name": "Ruin Guard"
+      "name": "Ruinenwächter"
     },
     {
       "key": "Ruin Hunter",
-      "name": "Ruin Hunter"
+      "name": "Ruinenjäger"
     },
     {
       "key": "Stonehide Lawachurl",
-      "name": "Stonehide Lawachurl"
+      "name": "Steinhaut Lawachurl"
     },
     {
       "key": "Stormterror",
-      "name": "Stormterror"
+      "name": "Sturmschrecken"
     },
     {
       "key": "Treasure Hoarders - Boss",
-      "name": "Treasure Hoarders - Boss"
+      "name": "Schatzräuber - Boss"
     },
     {
       "key": "Treasure Hoarders - Carmen",
-      "name": "Treasure Hoarders - Carmen"
+      "name": "Schatzräuber - Carmen"
     },
     {
       "key": "Treasure Hoarders - Crusher",
-      "name": "Treasure Hoarders - Crusher"
+      "name": "Schatzräuber - Schläger"
     },
     {
       "key": "Treasure Hoarders - Liuliu",
-      "name": "Treasure Hoarders - Liuliu"
+      "name": "Schatzräuber - Liuliu"
     },
     {
       "key": "Treasure Hoarders - Marksman",
-      "name": "Treasure Hoarders - Marksman"
+      "name": "Schatzräuber - Scharfschütze"
     },
     {
       "key": "Treasure Hoarders - Pugilist",
-      "name": "Treasure Hoarders - Pugilist"
+      "name": "Schatzräuber - Faustkämpfer"
     },
     {
       "key": "Treasure Hoarders - Raptor",
-      "name": "Treasure Hoarders - Raptor"
+      "name": "Schatzräuber - Raptor"
     },
     {
       "key": "Treasure Hoarders - Scout",
-      "name": "Treasure Hoarders - Scout"
+      "name": "Schatzräuber - Späher"
     },
     {
       "key": "Treasure Hoarders - Seaman",
-      "name": "Treasure Hoarders - Seaman"
+      "name": "Schatzräuber - Seemann"
     },
     {
       "key": "Treasure Hoarders: Cryo Potioneer",
-      "name": "Treasure Hoarders: Cryo Potioneer"
+      "name": "Schatzräuber - Elektro Tränkemischer"
     },
     {
       "key": "Treasure Hoarders: Electro Potioneer",
-      "name": "Treasure Hoarders: Electro Potioneer"
+      "name": "Schatzräuber - Elektro Tränkemischer"
     },
     {
       "key": "Treasure Hoarders: Gravedigger",
-      "name": "Treasure Hoarders: Gravedigger"
+      "name": "Schatzräuber - Totengräber"
     },
     {
       "key": "Treasure Hoarders: Handyman",
-      "name": "Treasure Hoarders: Handyman"
+      "name": "Schatzräuber Handlanger"
     },
     {
       "key": "Treasure Hoarders: Hydro Potioneer",
-      "name": "Treasure Hoarders: Hydro Potioneer"
+      "name": "Schatzräuber - Hydro Tränkemischer"
     },
     {
       "key": "Treasure Hoarders: Pyro Potioneer",
-      "name": "Treasure Hoarders: Pyro Potioneer"
+      "name": "Schatzräuber - Pyro Tränkemischer"
     },
     {
       "key": "Unusual Hilichurl",
-      "name": "Unusual Hilichurl"
+      "name": "Merkwürdiger Hilichurl"
     },
     {
       "key": "Wooden Shield Hilichurl Guard",
-      "name": "Wooden Shield Hilichurl Guard"
+      "name": "Hilichurl mit Holzschild"
     },
     {
       "key": "Wooden Shieldwall Mitachurl",
-      "name": "Wooden Shieldwall Mitachurl"
+      "name": "Mitachurl mit Holzschild"
     },
     {
       "key": "Maguu Kenki",
