@@ -17,7 +17,6 @@ extension I18nExtensions on S {
 
   String translateAppLanguageType(AppLanguageType lang) {
     switch (lang) {
-      case AppLanguageType.french:
       case AppLanguageType.english:
         return english;
       case AppLanguageType.spanish:
@@ -36,6 +35,8 @@ extension I18nExtensions on S {
         return '$vietnamese ($partial)';
       case AppLanguageType.indonesian:
         return '$indonesian ($partial)';
+      case AppLanguageType.french:
+        return '$french ($partial)';
       default:
         throw Exception('The provided app lang = $lang is not valid');
     }
@@ -61,7 +62,7 @@ extension I18nExtensions on S {
   String translateItemLocationType(ItemLocationType type) {
     switch (type) {
       case ItemLocationType.na:
-        return 'N/A';
+        return na;
       case ItemLocationType.gacha:
         return gacha;
       case ItemLocationType.crafting:
@@ -76,6 +77,8 @@ extension I18nExtensions on S {
         return quest;
       case ItemLocationType.all:
         return all;
+      case ItemLocationType.ps4:
+        return playstation;
       default:
         throw Exception('The provided location type = $type is not valid');
     }
